@@ -1,0 +1,1556 @@
+,Pair,Count
+0,134 - Unexpected shutdown;550 - Degraded gutter clearing at start-up,4
+1,134 - Unexpected shutdown;557 - Misaligned jet at start-up,16
+2,134 - Unexpected shutdown;138 - Print trigger occurred too early,31
+3,134 - Unexpected shutdown;139 - Print Trigger Occurred While Printing,40
+4,10 - Print Stretch Detected;134 - Unexpected shutdown,32
+5,134 - Unexpected shutdown;213 - Inspection Required,44
+6,134 - Unexpected shutdown;52 - Jet modulation has failed,17
+7,12 - Charge detection error;134 - Unexpected shutdown,14
+8,134 - Unexpected shutdown;142 - Recovered successfully,42
+9,550 - Degraded gutter clearing at start-up;557 - Misaligned jet at start-up,11
+10,138 - Print trigger occurred too early;550 - Degraded gutter clearing at start-up,3
+11,139 - Print Trigger Occurred While Printing;550 - Degraded gutter clearing at start-up,4
+12,10 - Print Stretch Detected;550 - Degraded gutter clearing at start-up,3
+13,213 - Inspection Required;550 - Degraded gutter clearing at start-up,6
+14,52 - Jet modulation has failed;550 - Degraded gutter clearing at start-up,4
+15,12 - Charge detection error;550 - Degraded gutter clearing at start-up,8
+16,142 - Recovered successfully;550 - Degraded gutter clearing at start-up,9
+17,138 - Print trigger occurred too early;557 - Misaligned jet at start-up,11
+18,139 - Print Trigger Occurred While Printing;557 - Misaligned jet at start-up,14
+19,10 - Print Stretch Detected;557 - Misaligned jet at start-up,12
+20,213 - Inspection Required;557 - Misaligned jet at start-up,7
+21,52 - Jet modulation has failed;557 - Misaligned jet at start-up,20
+22,12 - Charge detection error;557 - Misaligned jet at start-up,21
+23,142 - Recovered successfully;557 - Misaligned jet at start-up,26
+24,138 - Print trigger occurred too early;139 - Print Trigger Occurred While Printing,62
+25,10 - Print Stretch Detected;138 - Print trigger occurred too early,42
+26,138 - Print trigger occurred too early;213 - Inspection Required,28
+27,138 - Print trigger occurred too early;52 - Jet modulation has failed,15
+28,12 - Charge detection error;138 - Print trigger occurred too early,12
+29,138 - Print trigger occurred too early;142 - Recovered successfully,53
+30,10 - Print Stretch Detected;139 - Print Trigger Occurred While Printing,93
+31,139 - Print Trigger Occurred While Printing;213 - Inspection Required,55
+32,139 - Print Trigger Occurred While Printing;52 - Jet modulation has failed,24
+33,12 - Charge detection error;139 - Print Trigger Occurred While Printing,20
+34,139 - Print Trigger Occurred While Printing;142 - Recovered successfully,55
+35,10 - Print Stretch Detected;213 - Inspection Required,26
+36,10 - Print Stretch Detected;52 - Jet modulation has failed,20
+37,10 - Print Stretch Detected;12 - Charge detection error,25
+38,10 - Print Stretch Detected;142 - Recovered successfully,56
+39,213 - Inspection Required;52 - Jet modulation has failed,17
+40,12 - Charge detection error;213 - Inspection Required,18
+41,142 - Recovered successfully;213 - Inspection Required,41
+42,12 - Charge detection error;52 - Jet modulation has failed,98
+43,142 - Recovered successfully;52 - Jet modulation has failed,75
+44,12 - Charge detection error;142 - Recovered successfully,97
+45,234 - Gutter Stall;560 - Vacuum loss recovery time out,4
+46,140 - Ink detected on the charge electrode;234 - Gutter Stall,2
+47,143 - The attempt to recover has failed;234 - Gutter Stall,2
+48,140 - Ink detected on the charge electrode;560 - Vacuum loss recovery time out,5
+49,143 - The attempt to recover has failed;560 - Vacuum loss recovery time out,5
+50,140 - Ink detected on the charge electrode;143 - The attempt to recover has failed,25
+51,236 - Gutter blocked attempting to clear;237 - Gutter Blocked,44
+52,236 - Gutter blocked attempting to clear;558 - Gutter dry while running,1
+53,236 - Gutter blocked attempting to clear;534 - Insert ink cartridge: No Valid Cartridge Present,8
+54,237 - Gutter Blocked;558 - Gutter dry while running,1
+55,237 - Gutter Blocked;534 - Insert ink cartridge: No Valid Cartridge Present,10
+56,534 - Insert ink cartridge: No Valid Cartridge Present;558 - Gutter dry while running,3
+57,238 - Insufficient gutter vacuum: retrying;564 - Gutter vacuum cannot be generated,39
+58,238 - Insufficient gutter vacuum: retrying;46 - Makeup Level too High,10
+59,46 - Makeup Level too High;564 - Gutter vacuum cannot be generated,3
+60,561 - Gutter pump vacuum loss but has recovered;581 - ITM life expiry: First Warning,11
+61,542 - Change makeup cartridge: Cartridge Empty;561 - Gutter pump vacuum loss but has recovered,19
+62,544 - Insert makeup cartridge - no valid cartridge present;561 - Gutter pump vacuum loss but has recovered,25
+63,25 - Add make-up cartridge;561 - Gutter pump vacuum loss but has recovered,22
+64,542 - Change makeup cartridge: Cartridge Empty;581 - ITM life expiry: First Warning,23
+65,544 - Insert makeup cartridge - no valid cartridge present;581 - ITM life expiry: First Warning,34
+66,25 - Add make-up cartridge;581 - ITM life expiry: First Warning,42
+67,542 - Change makeup cartridge: Cartridge Empty;544 - Insert makeup cartridge - no valid cartridge present,172
+68,25 - Add make-up cartridge;542 - Change makeup cartridge: Cartridge Empty,289
+69,25 - Add make-up cartridge;544 - Insert makeup cartridge - no valid cartridge present,193
+70,237 - Gutter Blocked;557 - Misaligned jet at start-up,7
+71,15 - Deflection EHT has tripped;237 - Gutter Blocked,8
+72,138 - Print trigger occurred too early;237 - Gutter Blocked,5
+73,10 - Print Stretch Detected;237 - Gutter Blocked,2
+74,15 - Deflection EHT has tripped;557 - Misaligned jet at start-up,26
+75,138 - Print trigger occurred too early;15 - Deflection EHT has tripped,64
+76,10 - Print Stretch Detected;15 - Deflection EHT has tripped,73
+77,532 - Change ink cartridge: Empty;581 - ITM life expiry: First Warning,2
+78,1017 - Print delay too short;134 - Unexpected shutdown,5
+79,1017 - Print delay too short;138 - Print trigger occurred too early,10
+80,10 - Print Stretch Detected;1017 - Print delay too short,7
+81,15 - Deflection EHT has tripped;41 - Ink level high,34
+82,139 - Print Trigger Occurred While Printing;41 - Ink level high,23
+83,139 - Print Trigger Occurred While Printing;15 - Deflection EHT has tripped,93
+84,25 - Add make-up cartridge;45 - Watchdog Reset,4
+85,134 - Unexpected shutdown;544 - Insert makeup cartridge - no valid cartridge present,74
+86,138 - Print trigger occurred too early;542 - Change makeup cartridge: Cartridge Empty,36
+87,142 - Recovered successfully;542 - Change makeup cartridge: Cartridge Empty,71
+88,138 - Print trigger occurred too early;25 - Add make-up cartridge,43
+89,142 - Recovered successfully;25 - Add make-up cartridge,104
+90,234 - Gutter Stall;542 - Change makeup cartridge: Cartridge Empty,9
+91,234 - Gutter Stall;544 - Insert makeup cartridge - no valid cartridge present,5
+92,234 - Gutter Stall;25 - Add make-up cartridge,5
+93,238 - Insufficient gutter vacuum: retrying;558 - Gutter dry while running,4
+94,558 - Gutter dry while running;564 - Gutter vacuum cannot be generated,3
+95,560 - Vacuum loss recovery time out;561 - Gutter pump vacuum loss but has recovered,22
+96,134 - Unexpected shutdown;238 - Insufficient gutter vacuum: retrying,17
+97,134 - Unexpected shutdown;524 - Insert ITM: no valid ITM present,6
+98,134 - Unexpected shutdown;534 - Insert ink cartridge: No Valid Cartridge Present,31
+99,134 - Unexpected shutdown;15 - Deflection EHT has tripped,51
+100,134 - Unexpected shutdown;510 - Service module disconnected,6
+101,238 - Insufficient gutter vacuum: retrying;524 - Insert ITM: no valid ITM present,5
+102,238 - Insufficient gutter vacuum: retrying;534 - Insert ink cartridge: No Valid Cartridge Present,19
+103,238 - Insufficient gutter vacuum: retrying;544 - Insert makeup cartridge - no valid cartridge present,38
+104,15 - Deflection EHT has tripped;238 - Insufficient gutter vacuum: retrying,39
+105,138 - Print trigger occurred too early;238 - Insufficient gutter vacuum: retrying,15
+106,238 - Insufficient gutter vacuum: retrying;510 - Service module disconnected,1
+107,213 - Inspection Required;238 - Insufficient gutter vacuum: retrying,12
+108,524 - Insert ITM: no valid ITM present;534 - Insert ink cartridge: No Valid Cartridge Present,20
+109,524 - Insert ITM: no valid ITM present;544 - Insert makeup cartridge - no valid cartridge present,16
+110,15 - Deflection EHT has tripped;524 - Insert ITM: no valid ITM present,9
+111,138 - Print trigger occurred too early;524 - Insert ITM: no valid ITM present,5
+112,510 - Service module disconnected;524 - Insert ITM: no valid ITM present,14
+113,213 - Inspection Required;524 - Insert ITM: no valid ITM present,3
+114,534 - Insert ink cartridge: No Valid Cartridge Present;544 - Insert makeup cartridge - no valid cartridge present,79
+115,15 - Deflection EHT has tripped;534 - Insert ink cartridge: No Valid Cartridge Present,46
+116,138 - Print trigger occurred too early;534 - Insert ink cartridge: No Valid Cartridge Present,11
+117,510 - Service module disconnected;534 - Insert ink cartridge: No Valid Cartridge Present,8
+118,213 - Inspection Required;534 - Insert ink cartridge: No Valid Cartridge Present,12
+119,15 - Deflection EHT has tripped;544 - Insert makeup cartridge - no valid cartridge present,124
+120,138 - Print trigger occurred too early;544 - Insert makeup cartridge - no valid cartridge present,46
+121,510 - Service module disconnected;544 - Insert makeup cartridge - no valid cartridge present,10
+122,213 - Inspection Required;544 - Insert makeup cartridge - no valid cartridge present,25
+123,15 - Deflection EHT has tripped;510 - Service module disconnected,6
+124,15 - Deflection EHT has tripped;213 - Inspection Required,64
+125,138 - Print trigger occurred too early;510 - Service module disconnected,3
+126,213 - Inspection Required;510 - Service module disconnected,2
+127,142 - Recovered successfully;581 - ITM life expiry: First Warning,26
+128,532 - Change ink cartridge: Empty;609 - Ensure all consumables are engaged,3
+129,19 - Add ink cartridge;532 - Change ink cartridge: Empty,9
+130,19 - Add ink cartridge;609 - Ensure all consumables are engaged,5
+131,25 - Add make-up cartridge;590 - Persistent fault,15
+132,134 - Unexpected shutdown;234 - Gutter Stall,1
+133,134 - Unexpected shutdown;236 - Gutter blocked attempting to clear,4
+134,134 - Unexpected shutdown;561 - Gutter pump vacuum loss but has recovered,9
+135,134 - Unexpected shutdown;41 - Ink level high,14
+136,234 - Gutter Stall;236 - Gutter blocked attempting to clear,3
+137,234 - Gutter Stall;550 - Degraded gutter clearing at start-up,1
+138,234 - Gutter Stall;561 - Gutter pump vacuum loss but has recovered,6
+139,234 - Gutter Stall;41 - Ink level high,1
+140,236 - Gutter blocked attempting to clear;550 - Degraded gutter clearing at start-up,9
+141,236 - Gutter blocked attempting to clear;561 - Gutter pump vacuum loss but has recovered,7
+142,236 - Gutter blocked attempting to clear;41 - Ink level high,8
+143,550 - Degraded gutter clearing at start-up;561 - Gutter pump vacuum loss but has recovered,6
+144,41 - Ink level high;550 - Degraded gutter clearing at start-up,4
+145,41 - Ink level high;561 - Gutter pump vacuum loss but has recovered,7
+146,237 - Gutter Blocked;560 - Vacuum loss recovery time out,2
+147,238 - Insufficient gutter vacuum: retrying;542 - Change makeup cartridge: Cartridge Empty,18
+148,238 - Insufficient gutter vacuum: retrying;25 - Add make-up cartridge,21
+149,134 - Unexpected shutdown;16 - Viscosity Out of Range,5
+150,15 - Deflection EHT has tripped;16 - Viscosity Out of Range,23
+151,142 - Recovered successfully;15 - Deflection EHT has tripped,188
+152,138 - Print trigger occurred too early;16 - Viscosity Out of Range,5
+153,139 - Print Trigger Occurred While Printing;16 - Viscosity Out of Range,13
+154,142 - Recovered successfully;16 - Viscosity Out of Range,18
+155,143 - The attempt to recover has failed;542 - Change makeup cartridge: Cartridge Empty,13
+156,143 - The attempt to recover has failed;25 - Add make-up cartridge,19
+157,20 - Ink Level Below Minimum;607 - Ink cartridge not engaged,10
+158,590 - Persistent fault;607 - Ink cartridge not engaged,12
+159,20 - Ink Level Below Minimum;590 - Persistent fault,25
+160,134 - Unexpected shutdown;542 - Change makeup cartridge: Cartridge Empty,46
+161,134 - Unexpected shutdown;25 - Add make-up cartridge,57
+162,134 - Unexpected shutdown;45 - Watchdog Reset,12
+163,45 - Watchdog Reset;542 - Change makeup cartridge: Cartridge Empty,2
+164,213 - Inspection Required;542 - Change makeup cartridge: Cartridge Empty,24
+165,213 - Inspection Required;25 - Add make-up cartridge,45
+166,213 - Inspection Required;45 - Watchdog Reset,4
+167,15 - Deflection EHT has tripped;561 - Gutter pump vacuum loss but has recovered,30
+168,138 - Print trigger occurred too early;581 - ITM life expiry: First Warning,15
+169,134 - Unexpected shutdown;19 - Add ink cartridge,13
+170,19 - Add ink cartridge;542 - Change makeup cartridge: Cartridge Empty,34
+171,19 - Add ink cartridge;25 - Add make-up cartridge,53
+172,238 - Insufficient gutter vacuum: retrying;41 - Ink level high,10
+173,41 - Ink level high;46 - Makeup Level too High,25
+174,143 - The attempt to recover has failed;52 - Jet modulation has failed,39
+175,12 - Charge detection error;143 - The attempt to recover has failed,40
+176,142 - Recovered successfully;143 - The attempt to recover has failed,25
+177,10 - Print Stretch Detected;532 - Change ink cartridge: Empty,2
+178,19 - Add ink cartridge;544 - Insert makeup cartridge - no valid cartridge present,43
+179,142 - Recovered successfully;544 - Insert makeup cartridge - no valid cartridge present,91
+180,142 - Recovered successfully;19 - Add ink cartridge,31
+181,211 - Less than 200 hours to next inspection;531 - Change ink cartridge: Expired,1
+182,52 - Jet modulation has failed;542 - Change makeup cartridge: Cartridge Empty,30
+183,140 - Ink detected on the charge electrode;542 - Change makeup cartridge: Cartridge Empty,16
+184,52 - Jet modulation has failed;544 - Insert makeup cartridge - no valid cartridge present,35
+185,140 - Ink detected on the charge electrode;544 - Insert makeup cartridge - no valid cartridge present,17
+186,143 - The attempt to recover has failed;544 - Insert makeup cartridge - no valid cartridge present,17
+187,140 - Ink detected on the charge electrode;52 - Jet modulation has failed,38
+188,12 - Charge detection error;15 - Deflection EHT has tripped,58
+189,53 - Make-up Level Below Minimum;611 - Please add a new makeup cartridge. Makeup fully expended,19
+190,15 - Deflection EHT has tripped;611 - Please add a new makeup cartridge. Makeup fully expended,3
+191,15 - Deflection EHT has tripped;53 - Make-up Level Below Minimum,14
+192,25 - Add make-up cartridge;41 - Ink level high,28
+193,531 - Change ink cartridge: Expired;542 - Change makeup cartridge: Cartridge Empty,18
+194,531 - Change ink cartridge: Expired;544 - Insert makeup cartridge - no valid cartridge present,32
+195,15 - Deflection EHT has tripped;531 - Change ink cartridge: Expired,38
+196,15 - Deflection EHT has tripped;542 - Change makeup cartridge: Cartridge Empty,100
+197,46 - Makeup Level too High;557 - Misaligned jet at start-up,8
+198,139 - Print Trigger Occurred While Printing;544 - Insert makeup cartridge - no valid cartridge present,53
+199,15 - Deflection EHT has tripped;25 - Add make-up cartridge,137
+200,10 - Print Stretch Detected;25 - Add make-up cartridge,34
+201,15 - Deflection EHT has tripped;581 - ITM life expiry: First Warning,34
+202,41 - Ink level high;531 - Change ink cartridge: Expired,13
+203,139 - Print Trigger Occurred While Printing;531 - Change ink cartridge: Expired,24
+204,213 - Inspection Required;531 - Change ink cartridge: Expired,19
+205,213 - Inspection Required;41 - Ink level high,13
+206,521 - Change ITM: ITM tag dead;583 - Invalid tag(s),1
+207,521 - Change ITM: ITM tag dead;535 - Ink cartridge removed: First Warning,1
+208,521 - Change ITM: ITM tag dead;536 - Ink cartridge removed second warning,1
+209,521 - Change ITM: ITM tag dead;537 - Ink cartridge removed timeout,1
+210,521 - Change ITM: ITM tag dead;545 - Makeup cartridge removed first warning,1
+211,521 - Change ITM: ITM tag dead;546 - Makeup cartridge removed second warning,1
+212,521 - Change ITM: ITM tag dead;547 - Makeup cartridge removed timeout,1
+213,521 - Change ITM: ITM tag dead;609 - Ensure all consumables are engaged,1
+214,45 - Watchdog Reset;521 - Change ITM: ITM tag dead,1
+215,521 - Change ITM: ITM tag dead;590 - Persistent fault,1
+216,535 - Ink cartridge removed: First Warning;583 - Invalid tag(s),2
+217,536 - Ink cartridge removed second warning;583 - Invalid tag(s),2
+218,537 - Ink cartridge removed timeout;583 - Invalid tag(s),2
+219,545 - Makeup cartridge removed first warning;583 - Invalid tag(s),2
+220,546 - Makeup cartridge removed second warning;583 - Invalid tag(s),2
+221,547 - Makeup cartridge removed timeout;583 - Invalid tag(s),2
+222,583 - Invalid tag(s);609 - Ensure all consumables are engaged,1
+223,45 - Watchdog Reset;583 - Invalid tag(s),1
+224,583 - Invalid tag(s);590 - Persistent fault,1
+225,535 - Ink cartridge removed: First Warning;536 - Ink cartridge removed second warning,4
+226,535 - Ink cartridge removed: First Warning;537 - Ink cartridge removed timeout,4
+227,535 - Ink cartridge removed: First Warning;545 - Makeup cartridge removed first warning,3
+228,535 - Ink cartridge removed: First Warning;546 - Makeup cartridge removed second warning,3
+229,535 - Ink cartridge removed: First Warning;547 - Makeup cartridge removed timeout,3
+230,535 - Ink cartridge removed: First Warning;609 - Ensure all consumables are engaged,1
+231,45 - Watchdog Reset;535 - Ink cartridge removed: First Warning,1
+232,535 - Ink cartridge removed: First Warning;590 - Persistent fault,1
+233,536 - Ink cartridge removed second warning;537 - Ink cartridge removed timeout,5
+234,536 - Ink cartridge removed second warning;545 - Makeup cartridge removed first warning,3
+235,536 - Ink cartridge removed second warning;546 - Makeup cartridge removed second warning,3
+236,536 - Ink cartridge removed second warning;547 - Makeup cartridge removed timeout,3
+237,536 - Ink cartridge removed second warning;609 - Ensure all consumables are engaged,1
+238,45 - Watchdog Reset;536 - Ink cartridge removed second warning,1
+239,536 - Ink cartridge removed second warning;590 - Persistent fault,1
+240,537 - Ink cartridge removed timeout;545 - Makeup cartridge removed first warning,3
+241,537 - Ink cartridge removed timeout;546 - Makeup cartridge removed second warning,3
+242,537 - Ink cartridge removed timeout;547 - Makeup cartridge removed timeout,3
+243,537 - Ink cartridge removed timeout;609 - Ensure all consumables are engaged,1
+244,45 - Watchdog Reset;537 - Ink cartridge removed timeout,1
+245,537 - Ink cartridge removed timeout;590 - Persistent fault,1
+246,545 - Makeup cartridge removed first warning;546 - Makeup cartridge removed second warning,7
+247,545 - Makeup cartridge removed first warning;547 - Makeup cartridge removed timeout,4
+248,545 - Makeup cartridge removed first warning;609 - Ensure all consumables are engaged,1
+249,45 - Watchdog Reset;545 - Makeup cartridge removed first warning,1
+250,545 - Makeup cartridge removed first warning;590 - Persistent fault,2
+251,546 - Makeup cartridge removed second warning;547 - Makeup cartridge removed timeout,4
+252,546 - Makeup cartridge removed second warning;609 - Ensure all consumables are engaged,1
+253,45 - Watchdog Reset;546 - Makeup cartridge removed second warning,1
+254,546 - Makeup cartridge removed second warning;590 - Persistent fault,2
+255,547 - Makeup cartridge removed timeout;609 - Ensure all consumables are engaged,1
+256,45 - Watchdog Reset;547 - Makeup cartridge removed timeout,1
+257,547 - Makeup cartridge removed timeout;590 - Persistent fault,2
+258,45 - Watchdog Reset;609 - Ensure all consumables are engaged,1
+259,590 - Persistent fault;609 - Ensure all consumables are engaged,11
+260,45 - Watchdog Reset;590 - Persistent fault,2
+261,524 - Insert ITM: no valid ITM present;620 - Ink cartridge tag out of range,6
+262,524 - Insert ITM: no valid ITM present;621 - Makeup cartridge tag out of range,4
+263,524 - Insert ITM: no valid ITM present;622 - ITM tag out of range,7
+264,620 - Ink cartridge tag out of range;621 - Makeup cartridge tag out of range,4
+265,620 - Ink cartridge tag out of range;622 - ITM tag out of range,12
+266,510 - Service module disconnected;620 - Ink cartridge tag out of range,9
+267,621 - Makeup cartridge tag out of range;622 - ITM tag out of range,2
+268,510 - Service module disconnected;621 - Makeup cartridge tag out of range,3
+269,510 - Service module disconnected;622 - ITM tag out of range,12
+270,142 - Recovered successfully;534 - Insert ink cartridge: No Valid Cartridge Present,45
+271,134 - Unexpected shutdown;532 - Change ink cartridge: Empty,6
+272,15 - Deflection EHT has tripped;532 - Change ink cartridge: Empty,7
+273,544 - Insert makeup cartridge - no valid cartridge present;549 - Change makeup cartridge: Expired,4
+274,10 - Print Stretch Detected;544 - Insert makeup cartridge - no valid cartridge present,37
+275,1017 - Print delay too short;544 - Insert makeup cartridge - no valid cartridge present,7
+276,138 - Print trigger occurred too early;549 - Change makeup cartridge: Expired,1
+277,139 - Print Trigger Occurred While Printing;549 - Change makeup cartridge: Expired,3
+278,10 - Print Stretch Detected;549 - Change makeup cartridge: Expired,2
+279,1017 - Print delay too short;549 - Change makeup cartridge: Expired,2
+280,1017 - Print delay too short;139 - Print Trigger Occurred While Printing,8
+281,134 - Unexpected shutdown;531 - Change ink cartridge: Expired,14
+282,134 - Unexpected shutdown;608 - Makeup cartridge not engaged,8
+283,238 - Insufficient gutter vacuum: retrying;531 - Change ink cartridge: Expired,11
+284,238 - Insufficient gutter vacuum: retrying;608 - Makeup cartridge not engaged,3
+285,531 - Change ink cartridge: Expired;608 - Makeup cartridge not engaged,3
+286,25 - Add make-up cartridge;531 - Change ink cartridge: Expired,20
+287,25 - Add make-up cartridge;608 - Makeup cartridge not engaged,24
+288,117 - Positive air to the print head has failed;46 - Makeup Level too High,1
+289,117 - Positive air to the print head has failed;142 - Recovered successfully,7
+290,142 - Recovered successfully;46 - Makeup Level too High,16
+291,1018 - Internal gearbox frequency too high;544 - Insert makeup cartridge - no valid cartridge present,1
+292,1018 - Internal gearbox frequency too high;213 - Inspection Required,2
+293,41 - Ink level high;524 - Insert ITM: no valid ITM present,3
+294,534 - Insert ink cartridge: No Valid Cartridge Present;535 - Ink cartridge removed: First Warning,1
+295,534 - Insert ink cartridge: No Valid Cartridge Present;536 - Ink cartridge removed second warning,1
+296,534 - Insert ink cartridge: No Valid Cartridge Present;537 - Ink cartridge removed timeout,1
+297,534 - Insert ink cartridge: No Valid Cartridge Present;545 - Makeup cartridge removed first warning,1
+298,534 - Insert ink cartridge: No Valid Cartridge Present;546 - Makeup cartridge removed second warning,1
+299,534 - Insert ink cartridge: No Valid Cartridge Present;547 - Makeup cartridge removed timeout,1
+300,510 - Service module disconnected;535 - Ink cartridge removed: First Warning,1
+301,510 - Service module disconnected;536 - Ink cartridge removed second warning,1
+302,510 - Service module disconnected;537 - Ink cartridge removed timeout,1
+303,510 - Service module disconnected;545 - Makeup cartridge removed first warning,1
+304,510 - Service module disconnected;546 - Makeup cartridge removed second warning,1
+305,510 - Service module disconnected;547 - Makeup cartridge removed timeout,1
+306,41 - Ink level high;532 - Change ink cartridge: Empty,1
+307,25 - Add make-up cartridge;532 - Change ink cartridge: Empty,9
+308,138 - Print trigger occurred too early;532 - Change ink cartridge: Empty,3
+309,1017 - Print delay too short;532 - Change ink cartridge: Empty,3
+310,19 - Add ink cartridge;41 - Ink level high,17
+311,15 - Deflection EHT has tripped;19 - Add ink cartridge,37
+312,138 - Print trigger occurred too early;19 - Add ink cartridge,7
+313,1017 - Print delay too short;19 - Add ink cartridge,2
+314,138 - Print trigger occurred too early;41 - Ink level high,13
+315,1017 - Print delay too short;41 - Ink level high,2
+316,1017 - Print delay too short;25 - Add make-up cartridge,5
+317,1017 - Print delay too short;15 - Deflection EHT has tripped,13
+318,"13 - Long or too fast print, check print quality;567 - Slow gutter dry",1
+319,139 - Print Trigger Occurred While Printing;542 - Change makeup cartridge: Cartridge Empty,29
+320,10 - Print Stretch Detected;542 - Change makeup cartridge: Cartridge Empty,27
+321,41 - Ink level high;542 - Change makeup cartridge: Cartridge Empty,26
+322,15 - Deflection EHT has tripped;46 - Makeup Level too High,23
+323,138 - Print trigger occurred too early;46 - Makeup Level too High,12
+324,139 - Print Trigger Occurred While Printing;46 - Makeup Level too High,16
+325,10 - Print Stretch Detected;46 - Makeup Level too High,8
+326,16 - Viscosity Out of Range;46 - Makeup Level too High,11
+327,46 - Makeup Level too High;52 - Jet modulation has failed,9
+328,12 - Charge detection error;46 - Makeup Level too High,10
+329,15 - Deflection EHT has tripped;52 - Jet modulation has failed,54
+330,10 - Print Stretch Detected;16 - Viscosity Out of Range,6
+331,16 - Viscosity Out of Range;52 - Jet modulation has failed,11
+332,12 - Charge detection error;16 - Viscosity Out of Range,10
+333,534 - Insert ink cartridge: No Valid Cartridge Present;608 - Makeup cartridge not engaged,11
+334,542 - Change makeup cartridge: Cartridge Empty;550 - Degraded gutter clearing at start-up,7
+335,544 - Insert makeup cartridge - no valid cartridge present;550 - Degraded gutter clearing at start-up,7
+336,542 - Change makeup cartridge: Cartridge Empty;557 - Misaligned jet at start-up,15
+337,544 - Insert makeup cartridge - no valid cartridge present;557 - Misaligned jet at start-up,19
+338,581 - ITM life expiry: First Warning;609 - Ensure all consumables are engaged,7
+339,138 - Print trigger occurred too early;609 - Ensure all consumables are engaged,3
+340,534 - Insert ink cartridge: No Valid Cartridge Present;607 - Ink cartridge not engaged,10
+341,20 - Ink Level Below Minimum;534 - Insert ink cartridge: No Valid Cartridge Present,11
+342,53 - Make-up Level Below Minimum;534 - Insert ink cartridge: No Valid Cartridge Present,14
+343,46 - Makeup Level too High;534 - Insert ink cartridge: No Valid Cartridge Present,16
+344,139 - Print Trigger Occurred While Printing;534 - Insert ink cartridge: No Valid Cartridge Present,19
+345,1201 - High viscosity;534 - Insert ink cartridge: No Valid Cartridge Present,17
+346,16 - Viscosity Out of Range;534 - Insert ink cartridge: No Valid Cartridge Present,16
+347,534 - Insert ink cartridge: No Valid Cartridge Present;590 - Persistent fault,20
+348,52 - Jet modulation has failed;534 - Insert ink cartridge: No Valid Cartridge Present,22
+349,143 - The attempt to recover has failed;534 - Insert ink cartridge: No Valid Cartridge Present,18
+350,607 - Ink cartridge not engaged;608 - Makeup cartridge not engaged,2
+351,53 - Make-up Level Below Minimum;607 - Ink cartridge not engaged,6
+352,46 - Makeup Level too High;607 - Ink cartridge not engaged,7
+353,15 - Deflection EHT has tripped;607 - Ink cartridge not engaged,17
+354,139 - Print Trigger Occurred While Printing;607 - Ink cartridge not engaged,7
+355,1201 - High viscosity;607 - Ink cartridge not engaged,6
+356,16 - Viscosity Out of Range;607 - Ink cartridge not engaged,5
+357,213 - Inspection Required;607 - Ink cartridge not engaged,7
+358,52 - Jet modulation has failed;607 - Ink cartridge not engaged,9
+359,143 - The attempt to recover has failed;607 - Ink cartridge not engaged,13
+360,20 - Ink Level Below Minimum;608 - Makeup cartridge not engaged,1
+361,53 - Make-up Level Below Minimum;608 - Makeup cartridge not engaged,15
+362,46 - Makeup Level too High;608 - Makeup cartridge not engaged,8
+363,15 - Deflection EHT has tripped;608 - Makeup cartridge not engaged,16
+364,139 - Print Trigger Occurred While Printing;608 - Makeup cartridge not engaged,10
+365,1201 - High viscosity;608 - Makeup cartridge not engaged,15
+366,16 - Viscosity Out of Range;608 - Makeup cartridge not engaged,10
+367,213 - Inspection Required;608 - Makeup cartridge not engaged,6
+368,590 - Persistent fault;608 - Makeup cartridge not engaged,3
+369,52 - Jet modulation has failed;608 - Makeup cartridge not engaged,3
+370,143 - The attempt to recover has failed;608 - Makeup cartridge not engaged,2
+371,20 - Ink Level Below Minimum;53 - Make-up Level Below Minimum,5
+372,20 - Ink Level Below Minimum;46 - Makeup Level too High,6
+373,15 - Deflection EHT has tripped;20 - Ink Level Below Minimum,6
+374,139 - Print Trigger Occurred While Printing;20 - Ink Level Below Minimum,2
+375,1201 - High viscosity;20 - Ink Level Below Minimum,2
+376,16 - Viscosity Out of Range;20 - Ink Level Below Minimum,4
+377,20 - Ink Level Below Minimum;213 - Inspection Required,2
+378,20 - Ink Level Below Minimum;52 - Jet modulation has failed,4
+379,143 - The attempt to recover has failed;20 - Ink Level Below Minimum,6
+380,46 - Makeup Level too High;53 - Make-up Level Below Minimum,14
+381,139 - Print Trigger Occurred While Printing;53 - Make-up Level Below Minimum,9
+382,1201 - High viscosity;53 - Make-up Level Below Minimum,11
+383,16 - Viscosity Out of Range;53 - Make-up Level Below Minimum,8
+384,213 - Inspection Required;53 - Make-up Level Below Minimum,6
+385,53 - Make-up Level Below Minimum;590 - Persistent fault,6
+386,52 - Jet modulation has failed;53 - Make-up Level Below Minimum,6
+387,143 - The attempt to recover has failed;53 - Make-up Level Below Minimum,4
+388,1201 - High viscosity;46 - Makeup Level too High,6
+389,213 - Inspection Required;46 - Makeup Level too High,18
+390,46 - Makeup Level too High;590 - Persistent fault,12
+391,143 - The attempt to recover has failed;46 - Makeup Level too High,5
+392,1201 - High viscosity;15 - Deflection EHT has tripped,22
+393,15 - Deflection EHT has tripped;590 - Persistent fault,9
+394,143 - The attempt to recover has failed;15 - Deflection EHT has tripped,24
+395,1201 - High viscosity;139 - Print Trigger Occurred While Printing,9
+396,139 - Print Trigger Occurred While Printing;590 - Persistent fault,4
+397,139 - Print Trigger Occurred While Printing;143 - The attempt to recover has failed,11
+398,1201 - High viscosity;16 - Viscosity Out of Range,58
+399,1201 - High viscosity;213 - Inspection Required,8
+400,1201 - High viscosity;590 - Persistent fault,4
+401,1201 - High viscosity;52 - Jet modulation has failed,6
+402,1201 - High viscosity;143 - The attempt to recover has failed,7
+403,16 - Viscosity Out of Range;213 - Inspection Required,10
+404,16 - Viscosity Out of Range;590 - Persistent fault,7
+405,143 - The attempt to recover has failed;16 - Viscosity Out of Range,8
+406,213 - Inspection Required;590 - Persistent fault,4
+407,143 - The attempt to recover has failed;213 - Inspection Required,6
+408,52 - Jet modulation has failed;590 - Persistent fault,6
+409,143 - The attempt to recover has failed;590 - Persistent fault,10
+410,134 - Unexpected shutdown;573 - Viscometer fault 1,2
+411,"134 - Unexpected shutdown;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+412,"134 - Unexpected shutdown;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+413,134 - Unexpected shutdown;607 - Ink cartridge not engaged,4
+414,134 - Unexpected shutdown;20 - Ink Level Below Minimum,1
+415,134 - Unexpected shutdown;53 - Make-up Level Below Minimum,6
+416,134 - Unexpected shutdown;46 - Makeup Level too High,15
+417,134 - Unexpected shutdown;590 - Persistent fault,4
+418,238 - Insufficient gutter vacuum: retrying;573 - Viscometer fault 1,1
+419,"238 - Insufficient gutter vacuum: retrying;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+420,"238 - Insufficient gutter vacuum: retrying;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+421,238 - Insufficient gutter vacuum: retrying;607 - Ink cartridge not engaged,8
+422,20 - Ink Level Below Minimum;238 - Insufficient gutter vacuum: retrying,2
+423,238 - Insufficient gutter vacuum: retrying;53 - Make-up Level Below Minimum,5
+424,139 - Print Trigger Occurred While Printing;238 - Insufficient gutter vacuum: retrying,22
+425,10 - Print Stretch Detected;238 - Insufficient gutter vacuum: retrying,9
+426,238 - Insufficient gutter vacuum: retrying;590 - Persistent fault,3
+427,1017 - Print delay too short;238 - Insufficient gutter vacuum: retrying,1
+428,142 - Recovered successfully;238 - Insufficient gutter vacuum: retrying,31
+429,"573 - Viscometer fault 1;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+430,"573 - Viscometer fault 1;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+431,524 - Insert ITM: no valid ITM present;573 - Viscometer fault 1,1
+432,531 - Change ink cartridge: Expired;573 - Viscometer fault 1,1
+433,534 - Insert ink cartridge: No Valid Cartridge Present;573 - Viscometer fault 1,4
+434,544 - Insert makeup cartridge - no valid cartridge present;573 - Viscometer fault 1,2
+435,573 - Viscometer fault 1;607 - Ink cartridge not engaged,4
+436,20 - Ink Level Below Minimum;573 - Viscometer fault 1,2
+437,53 - Make-up Level Below Minimum;573 - Viscometer fault 1,1
+438,46 - Makeup Level too High;573 - Viscometer fault 1,1
+439,15 - Deflection EHT has tripped;573 - Viscometer fault 1,4
+440,138 - Print trigger occurred too early;573 - Viscometer fault 1,1
+441,139 - Print Trigger Occurred While Printing;573 - Viscometer fault 1,3
+442,10 - Print Stretch Detected;573 - Viscometer fault 1,2
+443,213 - Inspection Required;573 - Viscometer fault 1,2
+444,573 - Viscometer fault 1;590 - Persistent fault,1
+445,1017 - Print delay too short;573 - Viscometer fault 1,1
+446,142 - Recovered successfully;573 - Viscometer fault 1,4
+447,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",10
+448,"524 - Insert ITM: no valid ITM present;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+449,"531 - Change ink cartridge: Expired;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+450,"534 - Insert ink cartridge: No Valid Cartridge Present;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",3
+451,"544 - Insert makeup cartridge - no valid cartridge present;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",4
+452,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;607 - Ink cartridge not engaged",1
+453,"20 - Ink Level Below Minimum;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",3
+454,"53 - Make-up Level Below Minimum;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+455,"46 - Makeup Level too High;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+456,"15 - Deflection EHT has tripped;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+457,"138 - Print trigger occurred too early;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",3
+458,"139 - Print Trigger Occurred While Printing;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+459,"10 - Print Stretch Detected;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+460,"213 - Inspection Required;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+461,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;590 - Persistent fault",2
+462,"1017 - Print delay too short;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+463,"142 - Recovered successfully;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+464,"524 - Insert ITM: no valid ITM present;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+465,"531 - Change ink cartridge: Expired;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+466,"534 - Insert ink cartridge: No Valid Cartridge Present;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",3
+467,"544 - Insert makeup cartridge - no valid cartridge present;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",4
+468,"576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...;607 - Ink cartridge not engaged",1
+469,"20 - Ink Level Below Minimum;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",3
+470,"53 - Make-up Level Below Minimum;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+471,"46 - Makeup Level too High;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+472,"15 - Deflection EHT has tripped;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+473,"138 - Print trigger occurred too early;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",3
+474,"139 - Print Trigger Occurred While Printing;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+475,"10 - Print Stretch Detected;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+476,"213 - Inspection Required;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+477,"576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...;590 - Persistent fault",2
+478,"1017 - Print delay too short;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+479,"142 - Recovered successfully;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+480,524 - Insert ITM: no valid ITM present;531 - Change ink cartridge: Expired,7
+481,524 - Insert ITM: no valid ITM present;607 - Ink cartridge not engaged,4
+482,20 - Ink Level Below Minimum;524 - Insert ITM: no valid ITM present,7
+483,524 - Insert ITM: no valid ITM present;53 - Make-up Level Below Minimum,4
+484,46 - Makeup Level too High;524 - Insert ITM: no valid ITM present,3
+485,139 - Print Trigger Occurred While Printing;524 - Insert ITM: no valid ITM present,6
+486,10 - Print Stretch Detected;524 - Insert ITM: no valid ITM present,5
+487,524 - Insert ITM: no valid ITM present;590 - Persistent fault,8
+488,1017 - Print delay too short;524 - Insert ITM: no valid ITM present,2
+489,142 - Recovered successfully;524 - Insert ITM: no valid ITM present,8
+490,531 - Change ink cartridge: Expired;534 - Insert ink cartridge: No Valid Cartridge Present,15
+491,531 - Change ink cartridge: Expired;607 - Ink cartridge not engaged,4
+492,20 - Ink Level Below Minimum;531 - Change ink cartridge: Expired,1
+493,53 - Make-up Level Below Minimum;531 - Change ink cartridge: Expired,3
+494,46 - Makeup Level too High;531 - Change ink cartridge: Expired,6
+495,138 - Print trigger occurred too early;531 - Change ink cartridge: Expired,6
+496,10 - Print Stretch Detected;531 - Change ink cartridge: Expired,19
+497,531 - Change ink cartridge: Expired;590 - Persistent fault,2
+498,1017 - Print delay too short;531 - Change ink cartridge: Expired,4
+499,142 - Recovered successfully;531 - Change ink cartridge: Expired,20
+500,10 - Print Stretch Detected;534 - Insert ink cartridge: No Valid Cartridge Present,13
+501,1017 - Print delay too short;534 - Insert ink cartridge: No Valid Cartridge Present,4
+502,544 - Insert makeup cartridge - no valid cartridge present;607 - Ink cartridge not engaged,15
+503,20 - Ink Level Below Minimum;544 - Insert makeup cartridge - no valid cartridge present,6
+504,53 - Make-up Level Below Minimum;544 - Insert makeup cartridge - no valid cartridge present,19
+505,46 - Makeup Level too High;544 - Insert makeup cartridge - no valid cartridge present,28
+506,544 - Insert makeup cartridge - no valid cartridge present;590 - Persistent fault,15
+507,138 - Print trigger occurred too early;607 - Ink cartridge not engaged,3
+508,10 - Print Stretch Detected;607 - Ink cartridge not engaged,6
+509,1017 - Print delay too short;607 - Ink cartridge not engaged,1
+510,142 - Recovered successfully;607 - Ink cartridge not engaged,15
+511,138 - Print trigger occurred too early;20 - Ink Level Below Minimum,1
+512,10 - Print Stretch Detected;20 - Ink Level Below Minimum,2
+513,1017 - Print delay too short;20 - Ink Level Below Minimum,1
+514,142 - Recovered successfully;20 - Ink Level Below Minimum,3
+515,138 - Print trigger occurred too early;53 - Make-up Level Below Minimum,7
+516,10 - Print Stretch Detected;53 - Make-up Level Below Minimum,5
+517,1017 - Print delay too short;53 - Make-up Level Below Minimum,1
+518,142 - Recovered successfully;53 - Make-up Level Below Minimum,11
+519,1017 - Print delay too short;46 - Makeup Level too High,1
+520,138 - Print trigger occurred too early;590 - Persistent fault,2
+521,10 - Print Stretch Detected;590 - Persistent fault,2
+522,1017 - Print delay too short;213 - Inspection Required,3
+523,1017 - Print delay too short;590 - Persistent fault,1
+524,142 - Recovered successfully;590 - Persistent fault,7
+525,1017 - Print delay too short;142 - Recovered successfully,6
+526,557 - Misaligned jet at start-up;564 - Gutter vacuum cannot be generated,3
+527,19 - Add ink cartridge;564 - Gutter vacuum cannot be generated,2
+528,41 - Ink level high;564 - Gutter vacuum cannot be generated,6
+529,510 - Service module disconnected;564 - Gutter vacuum cannot be generated,1
+530,19 - Add ink cartridge;557 - Misaligned jet at start-up,10
+531,41 - Ink level high;557 - Misaligned jet at start-up,11
+532,510 - Service module disconnected;557 - Misaligned jet at start-up,1
+533,19 - Add ink cartridge;510 - Service module disconnected,1
+534,41 - Ink level high;510 - Service module disconnected,2
+535,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;571 - Start-up pressure, via wash valve, cannot be achieved",8
+536,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;617 - Ink cartridge not yet required",1
+537,"571 - Start-up pressure, via wash valve, cannot be achieved;617 - Ink cartridge not yet required",1
+538,581 - ITM life expiry: First Warning;608 - Makeup cartridge not engaged,7
+539,1201 - High viscosity;581 - ITM life expiry: First Warning,5
+540,16 - Viscosity Out of Range;581 - ITM life expiry: First Warning,6
+541,17 - Viscometer fault;581 - ITM life expiry: First Warning,1
+542,542 - Change makeup cartridge: Cartridge Empty;608 - Makeup cartridge not engaged,13
+543,1201 - High viscosity;542 - Change makeup cartridge: Cartridge Empty,4
+544,16 - Viscosity Out of Range;542 - Change makeup cartridge: Cartridge Empty,9
+545,17 - Viscometer fault;542 - Change makeup cartridge: Cartridge Empty,1
+546,17 - Viscometer fault;608 - Makeup cartridge not engaged,1
+547,1201 - High viscosity;17 - Viscometer fault,3
+548,16 - Viscosity Out of Range;17 - Viscometer fault,2
+549,25 - Add make-up cartridge;609 - Ensure all consumables are engaged,26
+550,53 - Make-up Level Below Minimum;542 - Change makeup cartridge: Cartridge Empty,14
+551,41 - Ink level high;53 - Make-up Level Below Minimum,11
+552,25 - Add make-up cartridge;53 - Make-up Level Below Minimum,12
+553,534 - Insert ink cartridge: No Valid Cartridge Present;560 - Vacuum loss recovery time out,8
+554,1201 - High viscosity;560 - Vacuum loss recovery time out,13
+555,12 - Charge detection error;560 - Vacuum loss recovery time out,4
+556,534 - Insert ink cartridge: No Valid Cartridge Present;561 - Gutter pump vacuum loss but has recovered,14
+557,1201 - High viscosity;561 - Gutter pump vacuum loss but has recovered,19
+558,12 - Charge detection error;561 - Gutter pump vacuum loss but has recovered,13
+559,143 - The attempt to recover has failed;561 - Gutter pump vacuum loss but has recovered,9
+560,12 - Charge detection error;534 - Insert ink cartridge: No Valid Cartridge Present,34
+561,12 - Charge detection error;1201 - High viscosity,9
+562,213 - Inspection Required;552 - Pressure has not been reached,1
+563,19 - Add ink cartridge;534 - Insert ink cartridge: No Valid Cartridge Present,25
+564,25 - Add make-up cartridge;534 - Insert ink cartridge: No Valid Cartridge Present,45
+565,1201 - High viscosity;19 - Add ink cartridge,8
+566,1201 - High viscosity;25 - Add make-up cartridge,9
+567,142 - Recovered successfully;608 - Makeup cartridge not engaged,12
+568,41 - Ink level high;544 - Insert makeup cartridge - no valid cartridge present,37
+569,10 - Print Stretch Detected;41 - Ink level high,20
+570,41 - Ink level high;567 - Slow gutter dry,2
+571,46 - Makeup Level too High;567 - Slow gutter dry,4
+572,139 - Print Trigger Occurred While Printing;567 - Slow gutter dry,2
+573,213 - Inspection Required;567 - Slow gutter dry,3
+574,10 - Print Stretch Detected;581 - ITM life expiry: First Warning,12
+575,140 - Ink detected on the charge electrode;15 - Deflection EHT has tripped,18
+576,138 - Print trigger occurred too early;140 - Ink detected on the charge electrode,4
+577,138 - Print trigger occurred too early;143 - The attempt to recover has failed,5
+578,140 - Ink detected on the charge electrode;142 - Recovered successfully,31
+579,551 - Gutter cannot be cleared;554 - Jetting pressure has not been reached,6
+580,534 - Insert ink cartridge: No Valid Cartridge Present;551 - Gutter cannot be cleared,5
+581,16 - Viscosity Out of Range;551 - Gutter cannot be cleared,2
+582,534 - Insert ink cartridge: No Valid Cartridge Present;554 - Jetting pressure has not been reached,3
+583,16 - Viscosity Out of Range;554 - Jetting pressure has not been reached,5
+584,134 - Unexpected shutdown;620 - Ink cartridge tag out of range,2
+585,134 - Unexpected shutdown;621 - Makeup cartridge tag out of range,1
+586,134 - Unexpected shutdown;622 - ITM tag out of range,1
+587,45 - Watchdog Reset;524 - Insert ITM: no valid ITM present,1
+588,534 - Insert ink cartridge: No Valid Cartridge Present;620 - Ink cartridge tag out of range,4
+589,534 - Insert ink cartridge: No Valid Cartridge Present;621 - Makeup cartridge tag out of range,2
+590,534 - Insert ink cartridge: No Valid Cartridge Present;622 - ITM tag out of range,4
+591,45 - Watchdog Reset;534 - Insert ink cartridge: No Valid Cartridge Present,2
+592,544 - Insert makeup cartridge - no valid cartridge present;620 - Ink cartridge tag out of range,4
+593,544 - Insert makeup cartridge - no valid cartridge present;621 - Makeup cartridge tag out of range,1
+594,544 - Insert makeup cartridge - no valid cartridge present;622 - ITM tag out of range,4
+595,45 - Watchdog Reset;544 - Insert makeup cartridge - no valid cartridge present,3
+596,15 - Deflection EHT has tripped;620 - Ink cartridge tag out of range,3
+597,45 - Watchdog Reset;620 - Ink cartridge tag out of range,1
+598,138 - Print trigger occurred too early;620 - Ink cartridge tag out of range,1
+599,139 - Print Trigger Occurred While Printing;620 - Ink cartridge tag out of range,4
+600,142 - Recovered successfully;620 - Ink cartridge tag out of range,4
+601,15 - Deflection EHT has tripped;621 - Makeup cartridge tag out of range,1
+602,45 - Watchdog Reset;621 - Makeup cartridge tag out of range,1
+603,138 - Print trigger occurred too early;621 - Makeup cartridge tag out of range,1
+604,139 - Print Trigger Occurred While Printing;621 - Makeup cartridge tag out of range,1
+605,142 - Recovered successfully;621 - Makeup cartridge tag out of range,3
+606,15 - Deflection EHT has tripped;622 - ITM tag out of range,5
+607,45 - Watchdog Reset;622 - ITM tag out of range,1
+608,138 - Print trigger occurred too early;622 - ITM tag out of range,1
+609,139 - Print Trigger Occurred While Printing;622 - ITM tag out of range,5
+610,142 - Recovered successfully;622 - ITM tag out of range,2
+611,15 - Deflection EHT has tripped;45 - Watchdog Reset,4
+612,138 - Print trigger occurred too early;45 - Watchdog Reset,4
+613,139 - Print Trigger Occurred While Printing;45 - Watchdog Reset,2
+614,45 - Watchdog Reset;510 - Service module disconnected,1
+615,142 - Recovered successfully;45 - Watchdog Reset,3
+616,139 - Print Trigger Occurred While Printing;510 - Service module disconnected,5
+617,142 - Recovered successfully;510 - Service module disconnected,3
+618,567 - Slow gutter dry;608 - Makeup cartridge not engaged,1
+619,550 - Degraded gutter clearing at start-up;607 - Ink cartridge not engaged,6
+620,1201 - High viscosity;550 - Degraded gutter clearing at start-up,2
+621,17 - Viscometer fault;550 - Degraded gutter clearing at start-up,1
+622,140 - Ink detected on the charge electrode;550 - Degraded gutter clearing at start-up,1
+623,41 - Ink level high;607 - Ink cartridge not engaged,7
+624,17 - Viscometer fault;607 - Ink cartridge not engaged,2
+625,140 - Ink detected on the charge electrode;607 - Ink cartridge not engaged,4
+626,1201 - High viscosity;41 - Ink level high,8
+627,17 - Viscometer fault;41 - Ink level high,1
+628,140 - Ink detected on the charge electrode;41 - Ink level high,4
+629,1201 - High viscosity;140 - Ink detected on the charge electrode,7
+630,17 - Viscometer fault;213 - Inspection Required,1
+631,140 - Ink detected on the charge electrode;17 - Viscometer fault,2
+632,140 - Ink detected on the charge electrode;213 - Inspection Required,7
+633,20 - Ink Level Below Minimum;557 - Misaligned jet at start-up,5
+634,16 - Viscosity Out of Range;557 - Misaligned jet at start-up,5
+635,143 - The attempt to recover has failed;557 - Misaligned jet at start-up,11
+636,19 - Add ink cartridge;20 - Ink Level Below Minimum,4
+637,16 - Viscosity Out of Range;19 - Add ink cartridge,5
+638,19 - Add ink cartridge;52 - Jet modulation has failed,10
+639,143 - The attempt to recover has failed;19 - Add ink cartridge,6
+640,581 - ITM life expiry: First Warning;590 - Persistent fault,7
+641,12 - Charge detection error;581 - ITM life expiry: First Warning,21
+642,12 - Charge detection error;25 - Add make-up cartridge,42
+643,12 - Charge detection error;590 - Persistent fault,7
+644,25 - Add make-up cartridge;52 - Jet modulation has failed,37
+645,532 - Change ink cartridge: Empty;534 - Insert ink cartridge: No Valid Cartridge Present,11
+646,1370 - Print head cover removed;542 - Change makeup cartridge: Cartridge Empty,9
+647,1370 - Print head cover removed;544 - Insert makeup cartridge - no valid cartridge present,11
+648,1370 - Print head cover removed;25 - Add make-up cartridge,12
+649,1370 - Print head cover removed;52 - Jet modulation has failed,7
+650,1370 - Print head cover removed;142 - Recovered successfully,44
+651,1371 - Printing is disabled with print head cover removed;19 - Add ink cartridge,8
+652,12 - Charge detection error;19 - Add ink cartridge,15
+653,12 - Charge detection error;1371 - Printing is disabled with print head cover removed,10
+654,15 - Deflection EHT has tripped;234 - Gutter Stall,4
+655,138 - Print trigger occurred too early;234 - Gutter Stall,3
+656,139 - Print Trigger Occurred While Printing;234 - Gutter Stall,6
+657,10 - Print Stretch Detected;234 - Gutter Stall,7
+658,142 - Recovered successfully;234 - Gutter Stall,5
+659,12 - Charge detection error;140 - Ink detected on the charge electrode,37
+660,134 - Unexpected shutdown;560 - Vacuum loss recovery time out,4
+661,138 - Print trigger occurred too early;560 - Vacuum loss recovery time out,3
+662,139 - Print Trigger Occurred While Printing;560 - Vacuum loss recovery time out,7
+663,10 - Print Stretch Detected;560 - Vacuum loss recovery time out,6
+664,213 - Inspection Required;560 - Vacuum loss recovery time out,2
+665,142 - Recovered successfully;560 - Vacuum loss recovery time out,13
+666,234 - Gutter Stall;567 - Slow gutter dry,1
+667,236 - Gutter blocked attempting to clear;567 - Slow gutter dry,1
+668,139 - Print Trigger Occurred While Printing;25 - Add make-up cartridge,42
+669,524 - Insert ITM: no valid ITM present;608 - Makeup cartridge not engaged,2
+670,1201 - High viscosity;524 - Insert ITM: no valid ITM present,2
+671,510 - Service module disconnected;608 - Makeup cartridge not engaged,1
+672,510 - Service module disconnected;53 - Make-up Level Below Minimum,1
+673,1201 - High viscosity;510 - Service module disconnected,1
+674,134 - Unexpected shutdown;609 - Ensure all consumables are engaged,6
+675,238 - Insufficient gutter vacuum: retrying;561 - Gutter pump vacuum loss but has recovered,15
+676,1201 - High viscosity;238 - Insufficient gutter vacuum: retrying,9
+677,16 - Viscosity Out of Range;238 - Insufficient gutter vacuum: retrying,7
+678,12 - Charge detection error;238 - Insufficient gutter vacuum: retrying,7
+679,561 - Gutter pump vacuum loss but has recovered;564 - Gutter vacuum cannot be generated,14
+680,544 - Insert makeup cartridge - no valid cartridge present;564 - Gutter vacuum cannot be generated,13
+681,1201 - High viscosity;564 - Gutter vacuum cannot be generated,8
+682,16 - Viscosity Out of Range;564 - Gutter vacuum cannot be generated,11
+683,12 - Charge detection error;564 - Gutter vacuum cannot be generated,3
+684,16 - Viscosity Out of Range;561 - Gutter pump vacuum loss but has recovered,11
+685,1201 - High viscosity;544 - Insert makeup cartridge - no valid cartridge present,14
+686,16 - Viscosity Out of Range;544 - Insert makeup cartridge - no valid cartridge present,12
+687,12 - Charge detection error;544 - Insert makeup cartridge - no valid cartridge present,36
+688,16 - Viscosity Out of Range;41 - Ink level high,11
+689,12 - Charge detection error;41 - Ink level high,17
+690,534 - Insert ink cartridge: No Valid Cartridge Present;557 - Misaligned jet at start-up,13
+691,140 - Ink detected on the charge electrode;557 - Misaligned jet at start-up,7
+692,140 - Ink detected on the charge electrode;534 - Insert ink cartridge: No Valid Cartridge Present,15
+693,139 - Print Trigger Occurred While Printing;140 - Ink detected on the charge electrode,5
+694,10 - Print Stretch Detected;140 - Ink detected on the charge electrode,10
+695,10 - Print Stretch Detected;143 - The attempt to recover has failed,10
+696,535 - Ink cartridge removed: First Warning;607 - Ink cartridge not engaged,1
+697,19 - Add ink cartridge;535 - Ink cartridge removed: First Warning,1
+698,19 - Add ink cartridge;607 - Ink cartridge not engaged,15
+699,542 - Change makeup cartridge: Cartridge Empty;545 - Makeup cartridge removed first warning,1
+700,542 - Change makeup cartridge: Cartridge Empty;546 - Makeup cartridge removed second warning,1
+701,542 - Change makeup cartridge: Cartridge Empty;547 - Makeup cartridge removed timeout,1
+702,542 - Change makeup cartridge: Cartridge Empty;590 - Persistent fault,10
+703,139 - Print Trigger Occurred While Printing;561 - Gutter pump vacuum loss but has recovered,10
+704,534 - Insert ink cartridge: No Valid Cartridge Present;542 - Change makeup cartridge: Cartridge Empty,39
+705,561 - Gutter pump vacuum loss but has recovered;607 - Ink cartridge not engaged,6
+706,19 - Add ink cartridge;561 - Gutter pump vacuum loss but has recovered,10
+707,1370 - Print head cover removed;561 - Gutter pump vacuum loss but has recovered,9
+708,1371 - Printing is disabled with print head cover removed;561 - Gutter pump vacuum loss but has recovered,7
+709,142 - Recovered successfully;561 - Gutter pump vacuum loss but has recovered,27
+710,1370 - Print head cover removed;607 - Ink cartridge not engaged,3
+711,1371 - Printing is disabled with print head cover removed;607 - Ink cartridge not engaged,4
+712,1370 - Print head cover removed;19 - Add ink cartridge,7
+713,1370 - Print head cover removed;1371 - Printing is disabled with print head cover removed,31
+714,1371 - Printing is disabled with print head cover removed;142 - Recovered successfully,27
+715,534 - Insert ink cartridge: No Valid Cartridge Present;581 - ITM life expiry: First Warning,20
+716,143 - The attempt to recover has failed;581 - ITM life expiry: First Warning,8
+717,138 - Print trigger occurred too early;561 - Gutter pump vacuum loss but has recovered,10
+718,10 - Print Stretch Detected;561 - Gutter pump vacuum loss but has recovered,10
+719,557 - Misaligned jet at start-up;581 - ITM life expiry: First Warning,15
+720,1017 - Print delay too short;557 - Misaligned jet at start-up,2
+721,1017 - Print delay too short;581 - ITM life expiry: First Warning,2
+722,52 - Jet modulation has failed;581 - ITM life expiry: First Warning,18
+723,1017 - Print delay too short;52 - Jet modulation has failed,7
+724,134 - Unexpected shutdown;1370 - Print head cover removed,2
+725,134 - Unexpected shutdown;1371 - Printing is disabled with print head cover removed,1
+726,134 - Unexpected shutdown;140 - Ink detected on the charge electrode,7
+727,1370 - Print head cover removed;45 - Watchdog Reset,1
+728,1370 - Print head cover removed;140 - Ink detected on the charge electrode,12
+729,12 - Charge detection error;1370 - Print head cover removed,11
+730,1371 - Printing is disabled with print head cover removed;45 - Watchdog Reset,1
+731,1371 - Printing is disabled with print head cover removed;140 - Ink detected on the charge electrode,7
+732,140 - Ink detected on the charge electrode;45 - Watchdog Reset,1
+733,12 - Charge detection error;45 - Watchdog Reset,2
+734,234 - Gutter Stall;607 - Ink cartridge not engaged,2
+735,234 - Gutter Stall;46 - Makeup Level too High,1
+736,236 - Gutter blocked attempting to clear;581 - ITM life expiry: First Warning,7
+737,15 - Deflection EHT has tripped;236 - Gutter blocked attempting to clear,8
+738,143 - The attempt to recover has failed;236 - Gutter blocked attempting to clear,6
+739,237 - Gutter Blocked;25 - Add make-up cartridge,11
+740,41 - Ink level high;534 - Insert ink cartridge: No Valid Cartridge Present,19
+741,20 - Ink Level Below Minimum;41 - Ink level high,3
+742,41 - Ink level high;590 - Persistent fault,9
+743,41 - Ink level high;52 - Jet modulation has failed,11
+744,19 - Add ink cartridge;581 - ITM life expiry: First Warning,8
+745,1370 - Print head cover removed;581 - ITM life expiry: First Warning,2
+746,1371 - Printing is disabled with print head cover removed;581 - ITM life expiry: First Warning,2
+747,140 - Ink detected on the charge electrode;25 - Add make-up cartridge,19
+748,542 - Change makeup cartridge: Cartridge Empty;607 - Ink cartridge not engaged,6
+749,19 - Add ink cartridge;45 - Watchdog Reset,3
+750,19 - Add ink cartridge;213 - Inspection Required,14
+751,236 - Gutter blocked attempting to clear;542 - Change makeup cartridge: Cartridge Empty,9
+752,142 - Recovered successfully;236 - Gutter blocked attempting to clear,9
+753,237 - Gutter Blocked;542 - Change makeup cartridge: Cartridge Empty,8
+754,142 - Recovered successfully;237 - Gutter Blocked,8
+755,550 - Degraded gutter clearing at start-up;567 - Slow gutter dry,1
+756,551 - Gutter cannot be cleared;567 - Slow gutter dry,1
+757,25 - Add make-up cartridge;567 - Slow gutter dry,4
+758,12 - Charge detection error;567 - Slow gutter dry,1
+759,550 - Degraded gutter clearing at start-up;551 - Gutter cannot be cleared,3
+760,25 - Add make-up cartridge;550 - Degraded gutter clearing at start-up,6
+761,25 - Add make-up cartridge;551 - Gutter cannot be cleared,5
+762,12 - Charge detection error;551 - Gutter cannot be cleared,4
+763,41 - Ink level high;609 - Ensure all consumables are engaged,6
+764,12 - Charge detection error;609 - Ensure all consumables are engaged,2
+765,143 - The attempt to recover has failed;609 - Ensure all consumables are engaged,1
+766,143 - The attempt to recover has failed;41 - Ink level high,8
+767,134 - Unexpected shutdown;564 - Gutter vacuum cannot be generated,2
+768,134 - Unexpected shutdown;611 - Please add a new makeup cartridge. Makeup fully expended,4
+769,238 - Insufficient gutter vacuum: retrying;611 - Please add a new makeup cartridge. Makeup fully expended,2
+770,564 - Gutter vacuum cannot be generated;611 - Please add a new makeup cartridge. Makeup fully expended,1
+771,10 - Print Stretch Detected;564 - Gutter vacuum cannot be generated,5
+772,544 - Insert makeup cartridge - no valid cartridge present;611 - Please add a new makeup cartridge. Makeup fully expended,5
+773,41 - Ink level high;611 - Please add a new makeup cartridge. Makeup fully expended,2
+774,46 - Makeup Level too High;611 - Please add a new makeup cartridge. Makeup fully expended,5
+775,10 - Print Stretch Detected;611 - Please add a new makeup cartridge. Makeup fully expended,3
+776,236 - Gutter blocked attempting to clear;53 - Make-up Level Below Minimum,5
+777,138 - Print trigger occurred too early;236 - Gutter blocked attempting to clear,5
+778,236 - Gutter blocked attempting to clear;52 - Jet modulation has failed,5
+779,237 - Gutter Blocked;550 - Degraded gutter clearing at start-up,9
+780,1040 - Ink system fan has stopped working;237 - Gutter Blocked,1
+781,12 - Charge detection error;237 - Gutter Blocked,6
+782,143 - The attempt to recover has failed;237 - Gutter Blocked,5
+783,534 - Insert ink cartridge: No Valid Cartridge Present;550 - Degraded gutter clearing at start-up,5
+784,1040 - Ink system fan has stopped working;550 - Degraded gutter clearing at start-up,1
+785,143 - The attempt to recover has failed;550 - Degraded gutter clearing at start-up,3
+786,1040 - Ink system fan has stopped working;534 - Insert ink cartridge: No Valid Cartridge Present,1
+787,1040 - Ink system fan has stopped working;12 - Charge detection error,1
+788,1040 - Ink system fan has stopped working;143 - The attempt to recover has failed,1
+789,531 - Change ink cartridge: Expired;557 - Misaligned jet at start-up,7
+790,139 - Print Trigger Occurred While Printing;581 - ITM life expiry: First Warning,14
+791,213 - Inspection Required;581 - ITM life expiry: First Warning,6
+792,213 - Inspection Required;234 - Gutter Stall,2
+793,234 - Gutter Stall;52 - Jet modulation has failed,2
+794,12 - Charge detection error;234 - Gutter Stall,4
+795,140 - Ink detected on the charge electrode;561 - Gutter pump vacuum loss but has recovered,6
+796,1005 - Unexpected exception in print system;542 - Change makeup cartridge: Cartridge Empty,1
+797,1005 - Unexpected exception in print system;544 - Insert makeup cartridge - no valid cartridge present,1
+798,1005 - Unexpected exception in print system;25 - Add make-up cartridge,1
+799,117 - Positive air to the print head has failed;52 - Jet modulation has failed,1
+800,524 - Insert ITM: no valid ITM present;561 - Gutter pump vacuum loss but has recovered,3
+801,531 - Change ink cartridge: Expired;561 - Gutter pump vacuum loss but has recovered,6
+802,524 - Insert ITM: no valid ITM present;542 - Change makeup cartridge: Cartridge Empty,4
+803,25 - Add make-up cartridge;524 - Insert ITM: no valid ITM present,6
+804,12 - Charge detection error;524 - Insert ITM: no valid ITM present,5
+805,12 - Charge detection error;531 - Change ink cartridge: Expired,10
+806,12 - Charge detection error;542 - Change makeup cartridge: Cartridge Empty,26
+807,25 - Add make-up cartridge;607 - Ink cartridge not engaged,9
+808,12 - Charge detection error;607 - Ink cartridge not engaged,12
+809,560 - Vacuum loss recovery time out;564 - Gutter vacuum cannot be generated,8
+810,564 - Gutter vacuum cannot be generated;581 - ITM life expiry: First Warning,4
+811,560 - Vacuum loss recovery time out;581 - ITM life expiry: First Warning,5
+812,"238 - Insufficient gutter vacuum: retrying;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+813,"238 - Insufficient gutter vacuum: retrying;571 - Start-up pressure, via wash valve, cannot be achieved",1
+814,"534 - Insert ink cartridge: No Valid Cartridge Present;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",2
+815,"544 - Insert makeup cartridge - no valid cartridge present;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+816,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;607 - Ink cartridge not engaged",2
+817,"1201 - High viscosity;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",2
+818,"142 - Recovered successfully;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+819,"534 - Insert ink cartridge: No Valid Cartridge Present;571 - Start-up pressure, via wash valve, cannot be achieved",2
+820,"544 - Insert makeup cartridge - no valid cartridge present;571 - Start-up pressure, via wash valve, cannot be achieved",1
+821,"571 - Start-up pressure, via wash valve, cannot be achieved;607 - Ink cartridge not engaged",2
+822,"1201 - High viscosity;571 - Start-up pressure, via wash valve, cannot be achieved",2
+823,"142 - Recovered successfully;571 - Start-up pressure, via wash valve, cannot be achieved",1
+824,1201 - High viscosity;142 - Recovered successfully,16
+825,1370 - Print head cover removed;46 - Makeup Level too High,2
+826,1371 - Printing is disabled with print head cover removed;46 - Makeup Level too High,2
+827,544 - Insert makeup cartridge - no valid cartridge present;560 - Vacuum loss recovery time out,7
+828,234 - Gutter Stall;238 - Insufficient gutter vacuum: retrying,3
+829,532 - Change ink cartridge: Empty;542 - Change makeup cartridge: Cartridge Empty,7
+830,1017 - Print delay too short;542 - Change makeup cartridge: Cartridge Empty,3
+831,10 - Print Stretch Detected;19 - Add ink cartridge,8
+832,"13 - Long or too fast print, check print quality;19 - Add ink cartridge",2
+833,"13 - Long or too fast print, check print quality;15 - Deflection EHT has tripped",1
+834,"13 - Long or too fast print, check print quality;138 - Print trigger occurred too early",1
+835,"10 - Print Stretch Detected;13 - Long or too fast print, check print quality",1
+836,236 - Gutter blocked attempting to clear;524 - Insert ITM: no valid ITM present,1
+837,20 - Ink Level Below Minimum;236 - Gutter blocked attempting to clear,3
+838,236 - Gutter blocked attempting to clear;590 - Persistent fault,4
+839,238 - Insufficient gutter vacuum: retrying;557 - Misaligned jet at start-up,11
+840,557 - Misaligned jet at start-up;558 - Gutter dry while running,2
+841,551 - Gutter cannot be cleared;561 - Gutter pump vacuum loss but has recovered,2
+842,213 - Inspection Required;551 - Gutter cannot be cleared,2
+843,52 - Jet modulation has failed;551 - Gutter cannot be cleared,3
+844,143 - The attempt to recover has failed;551 - Gutter cannot be cleared,3
+845,213 - Inspection Required;561 - Gutter pump vacuum loss but has recovered,7
+846,52 - Jet modulation has failed;561 - Gutter pump vacuum loss but has recovered,8
+847,140 - Ink detected on the charge electrode;531 - Change ink cartridge: Expired,4
+848,140 - Ink detected on the charge electrode;46 - Makeup Level too High,3
+849,1371 - Printing is disabled with print head cover removed;542 - Change makeup cartridge: Cartridge Empty,4
+850,544 - Insert makeup cartridge - no valid cartridge present;608 - Makeup cartridge not engaged,15
+851,1371 - Printing is disabled with print head cover removed;544 - Insert makeup cartridge - no valid cartridge present,9
+852,1370 - Print head cover removed;608 - Makeup cartridge not engaged,1
+853,1371 - Printing is disabled with print head cover removed;608 - Makeup cartridge not engaged,1
+854,1370 - Print head cover removed;53 - Make-up Level Below Minimum,1
+855,1371 - Printing is disabled with print head cover removed;53 - Make-up Level Below Minimum,2
+856,1371 - Printing is disabled with print head cover removed;25 - Add make-up cartridge,9
+857,16 - Viscosity Out of Range;25 - Add make-up cartridge,8
+858,1370 - Print head cover removed;15 - Deflection EHT has tripped,8
+859,1201 - High viscosity;1370 - Print head cover removed,2
+860,1370 - Print head cover removed;16 - Viscosity Out of Range,1
+861,1371 - Printing is disabled with print head cover removed;15 - Deflection EHT has tripped,7
+862,1201 - High viscosity;1371 - Printing is disabled with print head cover removed,3
+863,1371 - Printing is disabled with print head cover removed;16 - Viscosity Out of Range,2
+864,236 - Gutter blocked attempting to clear;238 - Insufficient gutter vacuum: retrying,2
+865,237 - Gutter Blocked;238 - Insufficient gutter vacuum: retrying,1
+866,53 - Make-up Level Below Minimum;581 - ITM life expiry: First Warning,5
+867,19 - Add ink cartridge;53 - Make-up Level Below Minimum,6
+868,117 - Positive air to the print head has failed;236 - Gutter blocked attempting to clear,1
+869,1018 - Internal gearbox frequency too high;531 - Change ink cartridge: Expired,1
+870,25 - Add make-up cartridge;620 - Ink cartridge tag out of range,3
+871,542 - Change makeup cartridge: Cartridge Empty;621 - Makeup cartridge tag out of range,2
+872,117 - Positive air to the print head has failed;139 - Print Trigger Occurred While Printing,6
+873,236 - Gutter blocked attempting to clear;564 - Gutter vacuum cannot be generated,3
+874,237 - Gutter Blocked;564 - Gutter vacuum cannot be generated,2
+875,542 - Change makeup cartridge: Cartridge Empty;564 - Gutter vacuum cannot be generated,6
+876,143 - The attempt to recover has failed;564 - Gutter vacuum cannot be generated,5
+877,238 - Insufficient gutter vacuum: retrying;52 - Jet modulation has failed,8
+878,542 - Change makeup cartridge: Cartridge Empty;558 - Gutter dry while running,1
+879,1017 - Print delay too short;561 - Gutter pump vacuum loss but has recovered,2
+880,10 - Print Stretch Detected;1370 - Print head cover removed,8
+881,10 - Print Stretch Detected;1371 - Printing is disabled with print head cover removed,5
+882,139 - Print Trigger Occurred While Printing;19 - Add ink cartridge,18
+883,238 - Insufficient gutter vacuum: retrying;609 - Ensure all consumables are engaged,2
+884,531 - Change ink cartridge: Expired;609 - Ensure all consumables are engaged,4
+885,542 - Change makeup cartridge: Cartridge Empty;609 - Ensure all consumables are engaged,33
+886,46 - Makeup Level too High;542 - Change makeup cartridge: Cartridge Empty,20
+887,544 - Insert makeup cartridge - no valid cartridge present;609 - Ensure all consumables are engaged,14
+888,46 - Makeup Level too High;609 - Ensure all consumables are engaged,4
+889,15 - Deflection EHT has tripped;609 - Ensure all consumables are engaged,8
+890,139 - Print Trigger Occurred While Printing;609 - Ensure all consumables are engaged,2
+891,142 - Recovered successfully;609 - Ensure all consumables are engaged,6
+892,25 - Add make-up cartridge;46 - Makeup Level too High,20
+893,1201 - High viscosity;134 - Unexpected shutdown,6
+894,557 - Misaligned jet at start-up;608 - Makeup cartridge not engaged,4
+895,557 - Misaligned jet at start-up;590 - Persistent fault,7
+896,46 - Makeup Level too High;581 - ITM life expiry: First Warning,2
+897,117 - Positive air to the print head has failed;560 - Vacuum loss recovery time out,1
+898,117 - Positive air to the print head has failed;542 - Change makeup cartridge: Cartridge Empty,9
+899,117 - Positive air to the print head has failed;608 - Makeup cartridge not engaged,1
+900,117 - Positive air to the print head has failed;25 - Add make-up cartridge,9
+901,117 - Positive air to the print head has failed;590 - Persistent fault,1
+902,117 - Positive air to the print head has failed;12 - Charge detection error,2
+903,542 - Change makeup cartridge: Cartridge Empty;560 - Vacuum loss recovery time out,9
+904,560 - Vacuum loss recovery time out;608 - Makeup cartridge not engaged,1
+905,25 - Add make-up cartridge;560 - Vacuum loss recovery time out,13
+906,560 - Vacuum loss recovery time out;590 - Persistent fault,3
+907,12 - Charge detection error;608 - Makeup cartridge not engaged,5
+908,238 - Insufficient gutter vacuum: retrying;24 - Gutter dry at start-up,1
+909,24 - Gutter dry at start-up;558 - Gutter dry while running,2
+910,24 - Gutter dry at start-up;607 - Ink cartridge not engaged,3
+911,558 - Gutter dry while running;607 - Ink cartridge not engaged,1
+912,524 - Insert ITM: no valid ITM present;581 - ITM life expiry: First Warning,6
+913,52 - Jet modulation has failed;524 - Insert ITM: no valid ITM present,2
+914,531 - Change ink cartridge: Expired;581 - ITM life expiry: First Warning,12
+915,52 - Jet modulation has failed;531 - Change ink cartridge: Expired,8
+916,134 - Unexpected shutdown;581 - ITM life expiry: First Warning,17
+917,25 - Add make-up cartridge;557 - Misaligned jet at start-up,21
+918,24 - Gutter dry at start-up;561 - Gutter pump vacuum loss but has recovered,3
+919,24 - Gutter dry at start-up;609 - Ensure all consumables are engaged,1
+920,19 - Add ink cartridge;24 - Gutter dry at start-up,3
+921,24 - Gutter dry at start-up;41 - Ink level high,4
+922,24 - Gutter dry at start-up;590 - Persistent fault,2
+923,561 - Gutter pump vacuum loss but has recovered;609 - Ensure all consumables are engaged,2
+924,561 - Gutter pump vacuum loss but has recovered;590 - Persistent fault,2
+925,19 - Add ink cartridge;590 - Persistent fault,8
+926,1005 - Unexpected exception in print system;534 - Insert ink cartridge: No Valid Cartridge Present,1
+927,236 - Gutter blocked attempting to clear;557 - Misaligned jet at start-up,5
+928,12 - Charge detection error;236 - Gutter blocked attempting to clear,7
+929,237 - Gutter Blocked;52 - Jet modulation has failed,5
+930,134 - Unexpected shutdown;237 - Gutter Blocked,2
+931,142 - Recovered successfully;41 - Ink level high,18
+932,139 - Print Trigger Occurred While Printing;68 - Ink temperature low,1
+933,557 - Misaligned jet at start-up;561 - Gutter pump vacuum loss but has recovered,10
+934,140 - Ink detected on the charge electrode;16 - Viscosity Out of Range,5
+935,10 - Print Stretch Detected;622 - ITM tag out of range,2
+936,234 - Gutter Stall;558 - Gutter dry while running,1
+937,558 - Gutter dry while running;560 - Vacuum loss recovery time out,2
+938,558 - Gutter dry while running;561 - Gutter pump vacuum loss but has recovered,3
+939,139 - Print Trigger Occurred While Printing;558 - Gutter dry while running,2
+940,10 - Print Stretch Detected;558 - Gutter dry while running,2
+941,234 - Gutter Stall;551 - Gutter cannot be cleared,1
+942,234 - Gutter Stall;554 - Jetting pressure has not been reached,1
+943,551 - Gutter cannot be cleared;560 - Vacuum loss recovery time out,1
+944,554 - Jetting pressure has not been reached;560 - Vacuum loss recovery time out,1
+945,1017 - Print delay too short;12 - Charge detection error,5
+946,234 - Gutter Stall;53 - Make-up Level Below Minimum,1
+947,16 - Viscosity Out of Range;560 - Vacuum loss recovery time out,11
+948,52 - Jet modulation has failed;560 - Vacuum loss recovery time out,3
+949,140 - Ink detected on the charge electrode;590 - Persistent fault,2
+950,561 - Gutter pump vacuum loss but has recovered;573 - Viscometer fault 1,6
+951,20 - Ink Level Below Minimum;561 - Gutter pump vacuum loss but has recovered,2
+952,19 - Add ink cartridge;573 - Viscometer fault 1,2
+953,1370 - Print head cover removed;573 - Viscometer fault 1,2
+954,1371 - Printing is disabled with print head cover removed;573 - Viscometer fault 1,1
+955,1201 - High viscosity;573 - Viscometer fault 1,1
+956,1370 - Print head cover removed;20 - Ink Level Below Minimum,1
+957,1371 - Printing is disabled with print head cover removed;20 - Ink Level Below Minimum,1
+958,140 - Ink detected on the charge electrode;238 - Insufficient gutter vacuum: retrying,4
+959,143 - The attempt to recover has failed;238 - Insufficient gutter vacuum: retrying,3
+960,140 - Ink detected on the charge electrode;19 - Add ink cartridge,5
+961,140 - Ink detected on the charge electrode;524 - Insert ITM: no valid ITM present,2
+962,140 - Ink detected on the charge electrode;581 - ITM life expiry: First Warning,8
+963,16 - Viscosity Out of Range;531 - Change ink cartridge: Expired,6
+964,10 - Print Stretch Detected;1008 - Label stroke pitch too small for encoder resolution,2
+965,236 - Gutter blocked attempting to clear;24 - Gutter dry at start-up,4
+966,24 - Gutter dry at start-up;557 - Misaligned jet at start-up,5
+967,24 - Gutter dry at start-up;52 - Jet modulation has failed,4
+968,12 - Charge detection error;24 - Gutter dry at start-up,3
+969,143 - The attempt to recover has failed;24 - Gutter dry at start-up,4
+970,1018 - Internal gearbox frequency too high;15 - Deflection EHT has tripped,2
+971,1018 - Internal gearbox frequency too high;139 - Print Trigger Occurred While Printing,2
+972,10 - Print Stretch Detected;1018 - Internal gearbox frequency too high,3
+973,1018 - Internal gearbox frequency too high;142 - Recovered successfully,4
+974,45 - Watchdog Reset;581 - ITM life expiry: First Warning,1
+975,45 - Watchdog Reset;52 - Jet modulation has failed,1
+976,19 - Add ink cartridge;236 - Gutter blocked attempting to clear,3
+977,237 - Gutter Blocked;24 - Gutter dry at start-up,2
+978,19 - Add ink cartridge;237 - Gutter Blocked,5
+979,24 - Gutter dry at start-up;550 - Degraded gutter clearing at start-up,5
+980,19 - Add ink cartridge;550 - Degraded gutter clearing at start-up,2
+981,41 - Ink level high;622 - ITM tag out of range,1
+982,"13 - Long or too fast print, check print quality;532 - Change ink cartridge: Empty",1
+983,15 - Deflection EHT has tripped;558 - Gutter dry while running,3
+984,16 - Viscosity Out of Range;558 - Gutter dry while running,1
+985,12 - Charge detection error;558 - Gutter dry while running,2
+986,142 - Recovered successfully;558 - Gutter dry while running,3
+987,236 - Gutter blocked attempting to clear;611 - Please add a new makeup cartridge. Makeup fully expended,1
+988,236 - Gutter blocked attempting to clear;608 - Makeup cartridge not engaged,3
+989,557 - Misaligned jet at start-up;611 - Please add a new makeup cartridge. Makeup fully expended,1
+990,53 - Make-up Level Below Minimum;557 - Misaligned jet at start-up,6
+991,608 - Makeup cartridge not engaged;611 - Please add a new makeup cartridge. Makeup fully expended,1
+992,138 - Print trigger occurred too early;611 - Please add a new makeup cartridge. Makeup fully expended,3
+993,138 - Print trigger occurred too early;608 - Makeup cartridge not engaged,4
+994,16 - Viscosity Out of Range;237 - Gutter Blocked,1
+995,213 - Inspection Required;237 - Gutter Blocked,4
+996,140 - Ink detected on the charge electrode;237 - Gutter Blocked,3
+997,15 - Deflection EHT has tripped;564 - Gutter vacuum cannot be generated,9
+998,142 - Recovered successfully;564 - Gutter vacuum cannot be generated,6
+999,1370 - Print head cover removed;534 - Insert ink cartridge: No Valid Cartridge Present,4
+1000,1371 - Printing is disabled with print head cover removed;534 - Insert ink cartridge: No Valid Cartridge Present,3
+1001,1370 - Print head cover removed;590 - Persistent fault,1
+1002,1371 - Printing is disabled with print head cover removed;590 - Persistent fault,3
+1003,12 - Charge detection error;20 - Ink Level Below Minimum,2
+1004,17 - Viscometer fault;25 - Add make-up cartridge,1
+1005,17 - Viscometer fault;52 - Jet modulation has failed,1
+1006,134 - Unexpected shutdown;26 - Printhead heater temperature high,1
+1007,134 - Unexpected shutdown;170 - Printhead temperature imbalance,1
+1008,26 - Printhead heater temperature high;542 - Change makeup cartridge: Cartridge Empty,1
+1009,170 - Printhead temperature imbalance;542 - Change makeup cartridge: Cartridge Empty,1
+1010,26 - Printhead heater temperature high;544 - Insert makeup cartridge - no valid cartridge present,1
+1011,170 - Printhead temperature imbalance;544 - Insert makeup cartridge - no valid cartridge present,1
+1012,170 - Printhead temperature imbalance;26 - Printhead heater temperature high,1
+1013,213 - Inspection Required;26 - Printhead heater temperature high,3
+1014,170 - Printhead temperature imbalance;213 - Inspection Required,1
+1015,234 - Gutter Stall;564 - Gutter vacuum cannot be generated,2
+1016,234 - Gutter Stall;24 - Gutter dry at start-up,1
+1017,1201 - High viscosity;234 - Gutter Stall,1
+1018,16 - Viscosity Out of Range;234 - Gutter Stall,1
+1019,24 - Gutter dry at start-up;564 - Gutter vacuum cannot be generated,1
+1020,140 - Ink detected on the charge electrode;564 - Gutter vacuum cannot be generated,2
+1021,24 - Gutter dry at start-up;560 - Vacuum loss recovery time out,2
+1022,10 - Print Stretch Detected;24 - Gutter dry at start-up,1
+1023,1201 - High viscosity;24 - Gutter dry at start-up,1
+1024,16 - Viscosity Out of Range;24 - Gutter dry at start-up,3
+1025,140 - Ink detected on the charge electrode;24 - Gutter dry at start-up,2
+1026,10 - Print Stretch Detected;1201 - High viscosity,6
+1027,41 - Ink level high;558 - Gutter dry while running,1
+1028,19 - Add ink cartridge;234 - Gutter Stall,1
+1029,140 - Ink detected on the charge electrode;573 - Viscometer fault 1,1
+1030,542 - Change makeup cartridge: Cartridge Empty;620 - Ink cartridge tag out of range,1
+1031,542 - Change makeup cartridge: Cartridge Empty;622 - ITM tag out of range,1
+1032,590 - Persistent fault;620 - Ink cartridge tag out of range,1
+1033,25 - Add make-up cartridge;622 - ITM tag out of range,1
+1034,590 - Persistent fault;622 - ITM tag out of range,1
+1035,139 - Print Trigger Occurred While Printing;236 - Gutter blocked attempting to clear,4
+1036,10 - Print Stretch Detected;236 - Gutter blocked attempting to clear,1
+1037,550 - Degraded gutter clearing at start-up;581 - ITM life expiry: First Warning,3
+1038,15 - Deflection EHT has tripped;550 - Degraded gutter clearing at start-up,13
+1039,237 - Gutter Blocked;41 - Ink level high,5
+1040,1000 - Raster unavailable;46 - Makeup Level too High,1
+1041,1000 - Raster unavailable;1370 - Print head cover removed,2
+1042,139 - Print Trigger Occurred While Printing;564 - Gutter vacuum cannot be generated,4
+1043,1008 - Label stroke pitch too small for encoder resolution;138 - Print trigger occurred too early,1
+1044,1008 - Label stroke pitch too small for encoder resolution;139 - Print Trigger Occurred While Printing,3
+1045,560 - Vacuum loss recovery time out;607 - Ink cartridge not engaged,2
+1046,581 - ITM life expiry: First Warning;607 - Ink cartridge not engaged,6
+1047,134 - Unexpected shutdown;551 - Gutter cannot be cleared,3
+1048,237 - Gutter Blocked;566 - Gutter blocked in run,1
+1049,561 - Gutter pump vacuum loss but has recovered;566 - Gutter blocked in run,1
+1050,542 - Change makeup cartridge: Cartridge Empty;566 - Gutter blocked in run,1
+1051,544 - Insert makeup cartridge - no valid cartridge present;566 - Gutter blocked in run,1
+1052,25 - Add make-up cartridge;566 - Gutter blocked in run,1
+1053,15 - Deflection EHT has tripped;566 - Gutter blocked in run,1
+1054,237 - Gutter Blocked;561 - Gutter pump vacuum loss but has recovered,4
+1055,237 - Gutter Blocked;544 - Insert makeup cartridge - no valid cartridge present,8
+1056,583 - Invalid tag(s);621 - Makeup cartridge tag out of range,1
+1057,535 - Ink cartridge removed: First Warning;621 - Makeup cartridge tag out of range,1
+1058,536 - Ink cartridge removed second warning;621 - Makeup cartridge tag out of range,1
+1059,537 - Ink cartridge removed timeout;621 - Makeup cartridge tag out of range,1
+1060,545 - Makeup cartridge removed first warning;621 - Makeup cartridge tag out of range,2
+1061,546 - Makeup cartridge removed second warning;621 - Makeup cartridge tag out of range,2
+1062,547 - Makeup cartridge removed timeout;621 - Makeup cartridge tag out of range,1
+1063,557 - Misaligned jet at start-up;560 - Vacuum loss recovery time out,2
+1064,136 - Unable to detect printhead;19 - Add ink cartridge,1
+1065,136 - Unable to detect printhead;15 - Deflection EHT has tripped,1
+1066,46 - Makeup Level too High;561 - Gutter pump vacuum loss but has recovered,2
+1067,510 - Service module disconnected;531 - Change ink cartridge: Expired,1
+1068,236 - Gutter blocked attempting to clear;609 - Ensure all consumables are engaged,2
+1069,237 - Gutter Blocked;581 - ITM life expiry: First Warning,4
+1070,237 - Gutter Blocked;609 - Ensure all consumables are engaged,1
+1071,1000 - Raster unavailable;542 - Change makeup cartridge: Cartridge Empty,1
+1072,1000 - Raster unavailable;25 - Add make-up cartridge,2
+1073,1000 - Raster unavailable;139 - Print Trigger Occurred While Printing,3
+1074,10 - Print Stretch Detected;1000 - Raster unavailable,1
+1075,1000 - Raster unavailable;213 - Inspection Required,2
+1076,1017 - Print delay too short;1371 - Printing is disabled with print head cover removed,2
+1077,1371 - Printing is disabled with print head cover removed;52 - Jet modulation has failed,7
+1078,1371 - Printing is disabled with print head cover removed;143 - The attempt to recover has failed,5
+1079,1017 - Print delay too short;143 - The attempt to recover has failed,1
+1080,134 - Unexpected shutdown;17 - Viscometer fault,1
+1081,15 - Deflection EHT has tripped;17 - Viscometer fault,1
+1082,1018 - Internal gearbox frequency too high;581 - ITM life expiry: First Warning,1
+1083,117 - Positive air to the print head has failed;609 - Ensure all consumables are engaged,1
+1084,236 - Gutter blocked attempting to clear;560 - Vacuum loss recovery time out,2
+1085,236 - Gutter blocked attempting to clear;25 - Add make-up cartridge,11
+1086,15 - Deflection EHT has tripped;560 - Vacuum loss recovery time out,9
+1087,551 - Gutter cannot be cleared;557 - Misaligned jet at start-up,1
+1088,551 - Gutter cannot be cleared;607 - Ink cartridge not engaged,1
+1089,19 - Add ink cartridge;551 - Gutter cannot be cleared,2
+1090,53 - Make-up Level Below Minimum;551 - Gutter cannot be cleared,1
+1091,551 - Gutter cannot be cleared;590 - Persistent fault,1
+1092,557 - Misaligned jet at start-up;607 - Ink cartridge not engaged,8
+1093,12 - Charge detection error;53 - Make-up Level Below Minimum,5
+1094,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;611 - Please add a new makeup cartridge. Makeup fully expended",2
+1095,"576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...;611 - Please add a new makeup cartridge. Makeup fully expended",2
+1096,534 - Insert ink cartridge: No Valid Cartridge Present;611 - Please add a new makeup cartridge. Makeup fully expended,4
+1097,"542 - Change makeup cartridge: Cartridge Empty;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1098,"25 - Add make-up cartridge;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+1099,"52 - Jet modulation has failed;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1100,"12 - Charge detection error;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",2
+1101,"542 - Change makeup cartridge: Cartridge Empty;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1102,"25 - Add make-up cartridge;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+1103,"52 - Jet modulation has failed;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1104,"12 - Charge detection error;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",2
+1105,510 - Service module disconnected;561 - Gutter pump vacuum loss but has recovered,1
+1106,510 - Service module disconnected;581 - ITM life expiry: First Warning,1
+1107,12 - Charge detection error;510 - Service module disconnected,1
+1108,1000 - Raster unavailable;15 - Deflection EHT has tripped,1
+1109,10 - Print Stretch Detected;609 - Ensure all consumables are engaged,4
+1110,542 - Change makeup cartridge: Cartridge Empty;611 - Please add a new makeup cartridge. Makeup fully expended,4
+1111,25 - Add make-up cartridge;611 - Please add a new makeup cartridge. Makeup fully expended,5
+1112,139 - Print Trigger Occurred While Printing;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1113,213 - Inspection Required;611 - Please add a new makeup cartridge. Makeup fully expended,4
+1114,142 - Recovered successfully;551 - Gutter cannot be cleared,1
+1115,557 - Misaligned jet at start-up;609 - Ensure all consumables are engaged,3
+1116,134 - Unexpected shutdown;143 - The attempt to recover has failed,5
+1117,20 - Ink Level Below Minimum;24 - Gutter dry at start-up,1
+1118,24 - Gutter dry at start-up;25 - Add make-up cartridge,1
+1119,20 - Ink Level Below Minimum;25 - Add make-up cartridge,3
+1120,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;581 - ITM life expiry: First Warning",2
+1121,"575 - Start-up pressure, via feed and bleed valves, cannot be achieved;608 - Makeup cartridge not engaged",1
+1122,"576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...;581 - ITM life expiry: First Warning",2
+1123,"576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...;608 - Makeup cartridge not engaged",1
+1124,238 - Insufficient gutter vacuum: retrying;581 - ITM life expiry: First Warning,10
+1125,236 - Gutter blocked attempting to clear;573 - Viscometer fault 1,1
+1126,236 - Gutter blocked attempting to clear;544 - Insert makeup cartridge - no valid cartridge present,8
+1127,1006 - The label selection input slot is not mapped to a label;236 - Gutter blocked attempting to clear,1
+1128,237 - Gutter Blocked;573 - Viscometer fault 1,1
+1129,1006 - The label selection input slot is not mapped to a label;237 - Gutter Blocked,1
+1130,1006 - The label selection input slot is not mapped to a label;561 - Gutter pump vacuum loss but has recovered,1
+1131,1006 - The label selection input slot is not mapped to a label;573 - Viscometer fault 1,1
+1132,12 - Charge detection error;573 - Viscometer fault 1,3
+1133,143 - The attempt to recover has failed;573 - Viscometer fault 1,2
+1134,1006 - The label selection input slot is not mapped to a label;534 - Insert ink cartridge: No Valid Cartridge Present,1
+1135,1006 - The label selection input slot is not mapped to a label;544 - Insert makeup cartridge - no valid cartridge present,1
+1136,1006 - The label selection input slot is not mapped to a label;12 - Charge detection error,1
+1137,1006 - The label selection input slot is not mapped to a label;143 - The attempt to recover has failed,1
+1138,551 - Gutter cannot be cleared;555 - Printhead not reached temperature,4
+1139,236 - Gutter blocked attempting to clear;46 - Makeup Level too High,2
+1140,213 - Inspection Required;236 - Gutter blocked attempting to clear,4
+1141,1370 - Print head cover removed;138 - Print trigger occurred too early,5
+1142,1370 - Print head cover removed;213 - Inspection Required,4
+1143,1371 - Printing is disabled with print head cover removed;138 - Print trigger occurred too early,4
+1144,1371 - Printing is disabled with print head cover removed;213 - Inspection Required,3
+1145,1000 - Raster unavailable;12 - Charge detection error,2
+1146,117 - Positive air to the print head has failed;561 - Gutter pump vacuum loss but has recovered,1
+1147,534 - Insert ink cartridge: No Valid Cartridge Present;564 - Gutter vacuum cannot be generated,4
+1148,532 - Change ink cartridge: Empty;544 - Insert makeup cartridge - no valid cartridge present,7
+1149,41 - Ink level high;608 - Makeup cartridge not engaged,8
+1150,10 - Print Stretch Detected;608 - Makeup cartridge not engaged,5
+1151,237 - Gutter Blocked;590 - Persistent fault,3
+1152,1370 - Print head cover removed;557 - Misaligned jet at start-up,2
+1153,1371 - Printing is disabled with print head cover removed;557 - Misaligned jet at start-up,3
+1154,41 - Ink level high;545 - Makeup cartridge removed first warning,1
+1155,41 - Ink level high;546 - Makeup cartridge removed second warning,1
+1156,45 - Watchdog Reset;561 - Gutter pump vacuum loss but has recovered,1
+1157,45 - Watchdog Reset;573 - Viscometer fault 1,1
+1158,1017 - Print delay too short;1370 - Print head cover removed,1
+1159,"237 - Gutter Blocked;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1160,"237 - Gutter Blocked;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1161,237 - Gutter Blocked;53 - Make-up Level Below Minimum,4
+1162,"53 - Make-up Level Below Minimum;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1163,"143 - The attempt to recover has failed;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1164,"53 - Make-up Level Below Minimum;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1165,"143 - The attempt to recover has failed;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1166,238 - Insufficient gutter vacuum: retrying;560 - Vacuum loss recovery time out,9
+1167,524 - Insert ITM: no valid ITM present;560 - Vacuum loss recovery time out,1
+1168,16 - Viscosity Out of Range;524 - Insert ITM: no valid ITM present,2
+1169,19 - Add ink cartridge;560 - Vacuum loss recovery time out,2
+1170,52 - Jet modulation has failed;573 - Viscometer fault 1,2
+1171,531 - Change ink cartridge: Expired;564 - Gutter vacuum cannot be generated,5
+1172,531 - Change ink cartridge: Expired;560 - Vacuum loss recovery time out,1
+1173,41 - Ink level high;560 - Vacuum loss recovery time out,3
+1174,19 - Add ink cartridge;46 - Makeup Level too High,9
+1175,1371 - Printing is disabled with print head cover removed;139 - Print Trigger Occurred While Printing,1
+1176,1370 - Print head cover removed;238 - Insufficient gutter vacuum: retrying,3
+1177,41 - Ink level high;45 - Watchdog Reset,2
+1178,140 - Ink detected on the charge electrode;236 - Gutter blocked attempting to clear,2
+1179,24 - Gutter dry at start-up;581 - ITM life expiry: First Warning,1
+1180,41 - Ink level high;581 - ITM life expiry: First Warning,7
+1181,237 - Gutter Blocked;607 - Ink cartridge not engaged,4
+1182,25 - Add make-up cartridge;564 - Gutter vacuum cannot be generated,7
+1183,235 - Gutter pump not rotating;552 - Pressure has not been reached,2
+1184,235 - Gutter pump not rotating;544 - Insert makeup cartridge - no valid cartridge present,2
+1185,139 - Print Trigger Occurred While Printing;235 - Gutter pump not rotating,1
+1186,544 - Insert makeup cartridge - no valid cartridge present;552 - Pressure has not been reached,2
+1187,139 - Print Trigger Occurred While Printing;552 - Pressure has not been reached,1
+1188,237 - Gutter Blocked;46 - Makeup Level too High,2
+1189,138 - Print trigger occurred too early;564 - Gutter vacuum cannot be generated,3
+1190,1370 - Print head cover removed;24 - Gutter dry at start-up,1
+1191,142 - Recovered successfully;24 - Gutter dry at start-up,4
+1192,1371 - Printing is disabled with print head cover removed;41 - Ink level high,2
+1193,544 - Insert makeup cartridge - no valid cartridge present;68 - Ink temperature low,1
+1194,549 - Change makeup cartridge: Expired;68 - Ink temperature low,1
+1195,46 - Makeup Level too High;549 - Change makeup cartridge: Expired,2
+1196,549 - Change makeup cartridge: Expired;590 - Persistent fault,2
+1197,46 - Makeup Level too High;68 - Ink temperature low,1
+1198,590 - Persistent fault;68 - Ink temperature low,2
+1199,117 - Positive air to the print head has failed;238 - Insufficient gutter vacuum: retrying,5
+1200,117 - Positive air to the print head has failed;557 - Misaligned jet at start-up,2
+1201,117 - Positive air to the print head has failed;607 - Ink cartridge not engaged,1
+1202,117 - Positive air to the print head has failed;1201 - High viscosity,1
+1203,1201 - High viscosity;557 - Misaligned jet at start-up,3
+1204,1017 - Print delay too short;564 - Gutter vacuum cannot be generated,1
+1205,1017 - Print delay too short;16 - Viscosity Out of Range,3
+1206,237 - Gutter Blocked;541 - Change makeup cartridge: makeup type incorrect,1
+1207,1371 - Printing is disabled with print head cover removed;609 - Ensure all consumables are engaged,2
+1208,1018 - Internal gearbox frequency too high;1370 - Print head cover removed,1
+1209,1370 - Print head cover removed;143 - The attempt to recover has failed,2
+1210,1018 - Internal gearbox frequency too high;52 - Jet modulation has failed,1
+1211,1018 - Internal gearbox frequency too high;140 - Ink detected on the charge electrode,1
+1212,1018 - Internal gearbox frequency too high;12 - Charge detection error,1
+1213,1018 - Internal gearbox frequency too high;143 - The attempt to recover has failed,1
+1214,1370 - Print head cover removed;550 - Degraded gutter clearing at start-up,2
+1215,1371 - Printing is disabled with print head cover removed;550 - Degraded gutter clearing at start-up,1
+1216,1005 - Unexpected exception in print system;15 - Deflection EHT has tripped,1
+1217,1005 - Unexpected exception in print system;12 - Charge detection error,1
+1218,1008 - Label stroke pitch too small for encoder resolution;15 - Deflection EHT has tripped,1
+1219,238 - Insufficient gutter vacuum: retrying;551 - Gutter cannot be cleared,2
+1220,238 - Insufficient gutter vacuum: retrying;555 - Printhead not reached temperature,1
+1221,238 - Insufficient gutter vacuum: retrying;27 - Printhead heater temperature low,1
+1222,551 - Gutter cannot be cleared;564 - Gutter vacuum cannot be generated,2
+1223,555 - Printhead not reached temperature;564 - Gutter vacuum cannot be generated,1
+1224,27 - Printhead heater temperature low;564 - Gutter vacuum cannot be generated,1
+1225,27 - Printhead heater temperature low;551 - Gutter cannot be cleared,1
+1226,27 - Printhead heater temperature low;555 - Printhead not reached temperature,2
+1227,234 - Gutter Stall;581 - ITM life expiry: First Warning,1
+1228,1017 - Print delay too short;550 - Degraded gutter clearing at start-up,1
+1229,532 - Change ink cartridge: Empty;557 - Misaligned jet at start-up,2
+1230,16 - Viscosity Out of Range;532 - Change ink cartridge: Empty,3
+1231,52 - Jet modulation has failed;609 - Ensure all consumables are engaged,3
+1232,1370 - Print head cover removed;68 - Ink temperature low,2
+1233,140 - Ink detected on the charge electrode;68 - Ink temperature low,2
+1234,142 - Recovered successfully;68 - Ink temperature low,3
+1235,1201 - High viscosity;532 - Change ink cartridge: Empty,2
+1236,1000 - Raster unavailable;138 - Print trigger occurred too early,3
+1237,1371 - Printing is disabled with print head cover removed;532 - Change ink cartridge: Empty,1
+1238,532 - Change ink cartridge: Empty;590 - Persistent fault,2
+1239,140 - Ink detected on the charge electrode;532 - Change ink cartridge: Empty,1
+1240,1370 - Print head cover removed;41 - Ink level high,1
+1241,238 - Insufficient gutter vacuum: retrying;549 - Change makeup cartridge: Expired,1
+1242,15 - Deflection EHT has tripped;549 - Change makeup cartridge: Expired,7
+1243,52 - Jet modulation has failed;549 - Change makeup cartridge: Expired,1
+1244,142 - Recovered successfully;549 - Change makeup cartridge: Expired,1
+1245,16 - Viscosity Out of Range;236 - Gutter blocked attempting to clear,1
+1246,213 - Inspection Required;564 - Gutter vacuum cannot be generated,2
+1247,20 - Ink Level Below Minimum;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1248,590 - Persistent fault;611 - Please add a new makeup cartridge. Makeup fully expended,2
+1249,561 - Gutter pump vacuum loss but has recovered;992 - MRC payload is empty or incorrect,1
+1250,1020 - Buffer empty;561 - Gutter pump vacuum loss but has recovered,1
+1251,542 - Change makeup cartridge: Cartridge Empty;992 - MRC payload is empty or incorrect,1
+1252,1020 - Buffer empty;542 - Change makeup cartridge: Cartridge Empty,1
+1253,25 - Add make-up cartridge;992 - MRC payload is empty or incorrect,1
+1254,1020 - Buffer empty;25 - Add make-up cartridge,1
+1255,15 - Deflection EHT has tripped;992 - MRC payload is empty or incorrect,2
+1256,1020 - Buffer empty;15 - Deflection EHT has tripped,1
+1257,1020 - Buffer empty;992 - MRC payload is empty or incorrect,1
+1258,549 - Change makeup cartridge: Expired;550 - Degraded gutter clearing at start-up,1
+1259,549 - Change makeup cartridge: Expired;561 - Gutter pump vacuum loss but has recovered,4
+1260,534 - Insert ink cartridge: No Valid Cartridge Present;549 - Change makeup cartridge: Expired,3
+1261,542 - Change makeup cartridge: Cartridge Empty;549 - Change makeup cartridge: Expired,2
+1262,25 - Add make-up cartridge;549 - Change makeup cartridge: Expired,1
+1263,236 - Gutter blocked attempting to clear;551 - Gutter cannot be cleared,1
+1264,237 - Gutter Blocked;551 - Gutter cannot be cleared,1
+1265,542 - Change makeup cartridge: Cartridge Empty;551 - Gutter cannot be cleared,5
+1266,609 - Ensure all consumables are engaged;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1267,236 - Gutter blocked attempting to clear;531 - Change ink cartridge: Expired,4
+1268,237 - Gutter Blocked;531 - Change ink cartridge: Expired,2
+1269,531 - Change ink cartridge: Expired;550 - Degraded gutter clearing at start-up,1
+1270,12 - Charge detection error;68 - Ink temperature low,1
+1271,561 - Gutter pump vacuum loss but has recovered;567 - Slow gutter dry,2
+1272,1201 - High viscosity;567 - Slow gutter dry,2
+1273,20 - Ink Level Below Minimum;581 - ITM life expiry: First Warning,3
+1274,1000 - Raster unavailable;1371 - Printing is disabled with print head cover removed,1
+1275,1000 - Raster unavailable;142 - Recovered successfully,2
+1276,542 - Change makeup cartridge: Cartridge Empty;567 - Slow gutter dry,2
+1277,213 - Inspection Required;620 - Ink cartridge tag out of range,1
+1278,213 - Inspection Required;622 - ITM tag out of range,1
+1279,1020 - Buffer empty;198 - Incorrect External Data Format,1
+1280,142 - Recovered successfully;198 - Incorrect External Data Format,1
+1281,1020 - Buffer empty;142 - Recovered successfully,1
+1282,532 - Change ink cartridge: Empty;608 - Makeup cartridge not engaged,3
+1283,20 - Ink Level Below Minimum;237 - Gutter Blocked,1
+1284,1017 - Print delay too short;560 - Vacuum loss recovery time out,1
+1285,1201 - High viscosity;138 - Print trigger occurred too early,3
+1286,1017 - Print delay too short;1201 - High viscosity,2
+1287,134 - Unexpected shutdown;68 - Ink temperature low,1
+1288,557 - Misaligned jet at start-up;68 - Ink temperature low,1
+1289,143 - The attempt to recover has failed;68 - Ink temperature low,1
+1290,236 - Gutter blocked attempting to clear;607 - Ink cartridge not engaged,2
+1291,41 - Ink level high;549 - Change makeup cartridge: Expired,2
+1292,19 - Add ink cartridge;608 - Makeup cartridge not engaged,6
+1293,1201 - High viscosity;531 - Change ink cartridge: Expired,3
+1294,1370 - Print head cover removed;564 - Gutter vacuum cannot be generated,1
+1295,1370 - Print head cover removed;139 - Print Trigger Occurred While Printing,1
+1296,41 - Ink level high;551 - Gutter cannot be cleared,3
+1297,41 - Ink level high;554 - Jetting pressure has not been reached,2
+1298,581 - ITM life expiry: First Warning;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1299,142 - Recovered successfully;611 - Please add a new makeup cartridge. Makeup fully expended,3
+1300,45 - Watchdog Reset;531 - Change ink cartridge: Expired,1
+1301,117 - Positive air to the print head has failed;134 - Unexpected shutdown,4
+1302,117 - Positive air to the print head has failed;551 - Gutter cannot be cleared,2
+1303,117 - Positive air to the print head has failed;531 - Change ink cartridge: Expired,1
+1304,117 - Positive air to the print head has failed;534 - Insert ink cartridge: No Valid Cartridge Present,4
+1305,531 - Change ink cartridge: Expired;551 - Gutter cannot be cleared,1
+1306,550 - Degraded gutter clearing at start-up;560 - Vacuum loss recovery time out,1
+1307,550 - Degraded gutter clearing at start-up;573 - Viscometer fault 1,1
+1308,560 - Vacuum loss recovery time out;573 - Viscometer fault 1,1
+1309,542 - Change makeup cartridge: Cartridge Empty;573 - Viscometer fault 1,2
+1310,25 - Add make-up cartridge;573 - Viscometer fault 1,2
+1311,1000 - Raster unavailable;544 - Insert makeup cartridge - no valid cartridge present,1
+1312,139 - Print Trigger Occurred While Printing;237 - Gutter Blocked,2
+1313,19 - Add ink cartridge;567 - Slow gutter dry,2
+1314,236 - Gutter blocked attempting to clear;549 - Change makeup cartridge: Expired,1
+1315,237 - Gutter Blocked;549 - Change makeup cartridge: Expired,1
+1316,524 - Insert ITM: no valid ITM present;550 - Degraded gutter clearing at start-up,1
+1317,237 - Gutter Blocked;608 - Makeup cartridge not engaged,1
+1318,1008 - Label stroke pitch too small for encoder resolution;544 - Insert makeup cartridge - no valid cartridge present,1
+1319,10 - Print Stretch Detected;510 - Service module disconnected,2
+1320,143 - The attempt to recover has failed;510 - Service module disconnected,2
+1321,1007 - The label print height is out of range;531 - Change ink cartridge: Expired,1
+1322,1007 - The label print height is out of range;142 - Recovered successfully,1
+1323,1201 - High viscosity;611 - Please add a new makeup cartridge. Makeup fully expended,2
+1324,143 - The attempt to recover has failed;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1325,"117 - Positive air to the print head has failed;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1326,"117 - Positive air to the print head has failed;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1327,117 - Positive air to the print head has failed;20 - Ink Level Below Minimum,1
+1328,24 - Gutter dry at start-up;551 - Gutter cannot be cleared,1
+1329,238 - Insufficient gutter vacuum: retrying;45 - Watchdog Reset,1
+1330,1700 - No product trigger in specified distance;238 - Insufficient gutter vacuum: retrying,1
+1331,1701 - Multiple product triggers within specified distance;238 - Insufficient gutter vacuum: retrying,1
+1332,45 - Watchdog Reset;564 - Gutter vacuum cannot be generated,1
+1333,564 - Gutter vacuum cannot be generated;590 - Persistent fault,2
+1334,1700 - No product trigger in specified distance;564 - Gutter vacuum cannot be generated,1
+1335,1701 - Multiple product triggers within specified distance;564 - Gutter vacuum cannot be generated,1
+1336,1700 - No product trigger in specified distance;45 - Watchdog Reset,1
+1337,1701 - Multiple product triggers within specified distance;45 - Watchdog Reset,1
+1338,138 - Print trigger occurred too early;1700 - No product trigger in specified distance,1
+1339,138 - Print trigger occurred too early;1701 - Multiple product triggers within specified distance,1
+1340,1700 - No product trigger in specified distance;590 - Persistent fault,1
+1341,1701 - Multiple product triggers within specified distance;590 - Persistent fault,1
+1342,1700 - No product trigger in specified distance;1701 - Multiple product triggers within specified distance,1
+1343,1000 - Raster unavailable;1201 - High viscosity,1
+1344,1000 - Raster unavailable;16 - Viscosity Out of Range,1
+1345,19 - Add ink cartridge;558 - Gutter dry while running,1
+1346,"15 - Deflection EHT has tripped;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1347,"52 - Jet modulation has failed;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1348,"15 - Deflection EHT has tripped;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1349,"52 - Jet modulation has failed;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1350,1008 - Label stroke pitch too small for encoder resolution;532 - Change ink cartridge: Empty,1
+1351,1008 - Label stroke pitch too small for encoder resolution;534 - Insert ink cartridge: No Valid Cartridge Present,1
+1352,1008 - Label stroke pitch too small for encoder resolution;16 - Viscosity Out of Range,1
+1353,53 - Make-up Level Below Minimum;567 - Slow gutter dry,1
+1354,16 - Viscosity Out of Range;567 - Slow gutter dry,1
+1355,510 - Service module disconnected;607 - Ink cartridge not engaged,1
+1356,53 - Make-up Level Below Minimum;561 - Gutter pump vacuum loss but has recovered,2
+1357,19 - Add ink cartridge;549 - Change makeup cartridge: Expired,2
+1358,53 - Make-up Level Below Minimum;549 - Change makeup cartridge: Expired,1
+1359,"524 - Insert ITM: no valid ITM present;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1360,"20 - Ink Level Below Minimum;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1361,"16 - Viscosity Out of Range;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1362,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;590 - Persistent fault",1
+1363,"524 - Insert ITM: no valid ITM present;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1364,"20 - Ink Level Below Minimum;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1365,"16 - Viscosity Out of Range;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1366,"571 - Start-up pressure, via wash valve, cannot be achieved;590 - Persistent fault",1
+1367,608 - Makeup cartridge not engaged;609 - Ensure all consumables are engaged,1
+1368,20 - Ink Level Below Minimum;532 - Change ink cartridge: Empty,1
+1369,534 - Insert ink cartridge: No Valid Cartridge Present;609 - Ensure all consumables are engaged,1
+1370,117 - Positive air to the print head has failed;15 - Deflection EHT has tripped,7
+1371,10 - Print Stretch Detected;621 - Makeup cartridge tag out of range,1
+1372,117 - Positive air to the print head has failed;544 - Insert makeup cartridge - no valid cartridge present,7
+1373,117 - Positive air to the print head has failed;16 - Viscosity Out of Range,1
+1374,531 - Change ink cartridge: Expired;554 - Jetting pressure has not been reached,1
+1375,554 - Jetting pressure has not been reached;607 - Ink cartridge not engaged,1
+1376,19 - Add ink cartridge;554 - Jetting pressure has not been reached,1
+1377,19 - Add ink cartridge;531 - Change ink cartridge: Expired,5
+1378,15 - Deflection EHT has tripped;24 - Gutter dry at start-up,2
+1379,24 - Gutter dry at start-up;531 - Change ink cartridge: Expired,1
+1380,134 - Unexpected shutdown;549 - Change makeup cartridge: Expired,3
+1381,234 - Gutter Stall;534 - Insert ink cartridge: No Valid Cartridge Present,1
+1382,524 - Insert ITM: no valid ITM present;609 - Ensure all consumables are engaged,1
+1383,1018 - Internal gearbox frequency too high;607 - Ink cartridge not engaged,1
+1384,1018 - Internal gearbox frequency too high;46 - Makeup Level too High,1
+1385,1005 - Unexpected exception in print system;549 - Change makeup cartridge: Expired,1
+1386,16 - Viscosity Out of Range;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1387,27 - Printhead heater temperature low;561 - Gutter pump vacuum loss but has recovered,1
+1388,27 - Printhead heater temperature low;607 - Ink cartridge not engaged,1
+1389,1020 - Buffer empty;564 - Gutter vacuum cannot be generated,1
+1390,557 - Misaligned jet at start-up;573 - Viscometer fault 1,1
+1391,1201 - High viscosity;27 - Printhead heater temperature low,1
+1392,237 - Gutter Blocked;524 - Insert ITM: no valid ITM present,1
+1393,143 - The attempt to recover has failed;524 - Insert ITM: no valid ITM present,1
+1394,554 - Jetting pressure has not been reached;592 - Bleeding damper,2
+1395,138 - Print trigger occurred too early;554 - Jetting pressure has not been reached,1
+1396,138 - Print trigger occurred too early;592 - Bleeding damper,1
+1397,558 - Gutter dry while running;581 - ITM life expiry: First Warning,1
+1398,534 - Insert ink cartridge: No Valid Cartridge Present;553 - Wash pressure has not been reached,1
+1399,41 - Ink level high;553 - Wash pressure has not been reached,1
+1400,15 - Deflection EHT has tripped;553 - Wash pressure has not been reached,1
+1401,52 - Jet modulation has failed;553 - Wash pressure has not been reached,1
+1402,53 - Make-up Level Below Minimum;532 - Change ink cartridge: Empty,1
+1403,1018 - Internal gearbox frequency too high;236 - Gutter blocked attempting to clear,1
+1404,1018 - Internal gearbox frequency too high;237 - Gutter Blocked,1
+1405,211 - Less than 200 hours to next inspection;46 - Makeup Level too High,2
+1406,15 - Deflection EHT has tripped;26 - Printhead heater temperature high,2
+1407,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;573 - Viscometer fault 1",1
+1408,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;574 - Viscometer fault 2",1
+1409,"571 - Start-up pressure, via wash valve, cannot be achieved;573 - Viscometer fault 1",1
+1410,"571 - Start-up pressure, via wash valve, cannot be achieved;574 - Viscometer fault 2",1
+1411,573 - Viscometer fault 1;574 - Viscometer fault 2,2
+1412,574 - Viscometer fault 2;607 - Ink cartridge not engaged,2
+1413,12 - Charge detection error;506 - A trial Pack will expire soon,1
+1414,142 - Recovered successfully;506 - A trial Pack will expire soon,1
+1415,117 - Positive air to the print head has failed;564 - Gutter vacuum cannot be generated,1
+1416,24 - Gutter dry at start-up;542 - Change makeup cartridge: Cartridge Empty,1
+1417,138 - Print trigger occurred too early;24 - Gutter dry at start-up,3
+1418,1018 - Internal gearbox frequency too high;24 - Gutter dry at start-up,1
+1419,1018 - Internal gearbox frequency too high;557 - Misaligned jet at start-up,2
+1420,1018 - Internal gearbox frequency too high;542 - Change makeup cartridge: Cartridge Empty,2
+1421,1018 - Internal gearbox frequency too high;138 - Print trigger occurred too early,2
+1422,235 - Gutter pump not rotating;554 - Jetting pressure has not been reached,1
+1423,235 - Gutter pump not rotating;542 - Change makeup cartridge: Cartridge Empty,1
+1424,235 - Gutter pump not rotating;25 - Add make-up cartridge,1
+1425,15 - Deflection EHT has tripped;235 - Gutter pump not rotating,1
+1426,142 - Recovered successfully;235 - Gutter pump not rotating,1
+1427,552 - Pressure has not been reached;554 - Jetting pressure has not been reached,1
+1428,542 - Change makeup cartridge: Cartridge Empty;552 - Pressure has not been reached,1
+1429,25 - Add make-up cartridge;552 - Pressure has not been reached,1
+1430,15 - Deflection EHT has tripped;552 - Pressure has not been reached,1
+1431,142 - Recovered successfully;552 - Pressure has not been reached,1
+1432,542 - Change makeup cartridge: Cartridge Empty;554 - Jetting pressure has not been reached,1
+1433,544 - Insert makeup cartridge - no valid cartridge present;554 - Jetting pressure has not been reached,1
+1434,25 - Add make-up cartridge;554 - Jetting pressure has not been reached,1
+1435,15 - Deflection EHT has tripped;554 - Jetting pressure has not been reached,1
+1436,142 - Recovered successfully;554 - Jetting pressure has not been reached,2
+1437,551 - Gutter cannot be cleared;581 - ITM life expiry: First Warning,2
+1438,17 - Viscometer fault;238 - Insufficient gutter vacuum: retrying,1
+1439,17 - Viscometer fault;564 - Gutter vacuum cannot be generated,1
+1440,17 - Viscometer fault;46 - Makeup Level too High,1
+1441,41 - Ink level high;552 - Pressure has not been reached,1
+1442,"572 - Start-up pressure, via feed valve, cannot be achieved;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1443,"572 - Start-up pressure, via feed valve, cannot be achieved;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1444,10 - Print Stretch Detected;620 - Ink cartridge tag out of range,1
+1445,534 - Insert ink cartridge: No Valid Cartridge Present;567 - Slow gutter dry,2
+1446,10 - Print Stretch Detected;567 - Slow gutter dry,1
+1447,20 - Ink Level Below Minimum;564 - Gutter vacuum cannot be generated,1
+1448,206 - Remove cartridge for depletion;46 - Makeup Level too High,1
+1449,15 - Deflection EHT has tripped;206 - Remove cartridge for depletion,1
+1450,553 - Wash pressure has not been reached;557 - Misaligned jet at start-up,1
+1451,138 - Print trigger occurred too early;567 - Slow gutter dry,1
+1452,544 - Insert makeup cartridge - no valid cartridge present;551 - Gutter cannot be cleared,3
+1453,24 - Gutter dry at start-up;46 - Makeup Level too High,1
+1454,542 - Change makeup cartridge: Cartridge Empty;69 - Ink temperature high,1
+1455,608 - Makeup cartridge not engaged;69 - Ink temperature high,1
+1456,16 - Viscosity Out of Range;69 - Ink temperature high,1
+1457,544 - Insert makeup cartridge - no valid cartridge present;567 - Slow gutter dry,1
+1458,550 - Degraded gutter clearing at start-up;608 - Makeup cartridge not engaged,1
+1459,15 - Deflection EHT has tripped;211 - Less than 200 hours to next inspection,2
+1460,211 - Less than 200 hours to next inspection;52 - Jet modulation has failed,1
+1461,532 - Change ink cartridge: Empty;607 - Ink cartridge not engaged,1
+1462,117 - Positive air to the print head has failed;136 - Unable to detect printhead,1
+1463,117 - Positive air to the print head has failed;143 - The attempt to recover has failed,1
+1464,136 - Unable to detect printhead;139 - Print Trigger Occurred While Printing,1
+1465,136 - Unable to detect printhead;143 - The attempt to recover has failed,1
+1466,551 - Gutter cannot be cleared;552 - Pressure has not been reached,1
+1467,16 - Viscosity Out of Range;550 - Degraded gutter clearing at start-up,2
+1468,24 - Gutter dry at start-up;544 - Insert makeup cartridge - no valid cartridge present,2
+1469,510 - Service module disconnected;590 - Persistent fault,1
+1470,139 - Print Trigger Occurred While Printing;24 - Gutter dry at start-up,1
+1471,10 - Print Stretch Detected;17 - Viscometer fault,1
+1472,544 - Insert makeup cartridge - no valid cartridge present;558 - Gutter dry while running,1
+1473,25 - Add make-up cartridge;558 - Gutter dry while running,1
+1474,134 - Unexpected shutdown;992 - MRC payload is empty or incorrect,1
+1475,117 - Positive air to the print head has failed;19 - Add ink cartridge,2
+1476,1370 - Print head cover removed;609 - Ensure all consumables are engaged,1
+1477,52 - Jet modulation has failed;564 - Gutter vacuum cannot be generated,2
+1478,"19 - Add ink cartridge;570 - Start-up pressure, via wash valve, not achieved yet: retrying...",1
+1479,"19 - Add ink cartridge;571 - Start-up pressure, via wash valve, cannot be achieved",1
+1480,46 - Makeup Level too High;551 - Gutter cannot be cleared,1
+1481,138 - Print trigger occurred too early;551 - Gutter cannot be cleared,1
+1482,167 - Printhead temperature near boiling point;238 - Insufficient gutter vacuum: retrying,1
+1483,238 - Insufficient gutter vacuum: retrying;26 - Printhead heater temperature high,1
+1484,166 - Drop generator temperature over the maximum limit;238 - Insufficient gutter vacuum: retrying,1
+1485,167 - Printhead temperature near boiling point;564 - Gutter vacuum cannot be generated,1
+1486,26 - Printhead heater temperature high;564 - Gutter vacuum cannot be generated,1
+1487,166 - Drop generator temperature over the maximum limit;564 - Gutter vacuum cannot be generated,1
+1488,167 - Printhead temperature near boiling point;26 - Printhead heater temperature high,1
+1489,166 - Drop generator temperature over the maximum limit;167 - Printhead temperature near boiling point,1
+1490,15 - Deflection EHT has tripped;167 - Printhead temperature near boiling point,1
+1491,139 - Print Trigger Occurred While Printing;167 - Printhead temperature near boiling point,1
+1492,167 - Printhead temperature near boiling point;213 - Inspection Required,1
+1493,166 - Drop generator temperature over the maximum limit;26 - Printhead heater temperature high,1
+1494,139 - Print Trigger Occurred While Printing;26 - Printhead heater temperature high,1
+1495,15 - Deflection EHT has tripped;166 - Drop generator temperature over the maximum limit,1
+1496,139 - Print Trigger Occurred While Printing;166 - Drop generator temperature over the maximum limit,1
+1497,166 - Drop generator temperature over the maximum limit;213 - Inspection Required,1
+1498,117 - Positive air to the print head has failed;1370 - Print head cover removed,2
+1499,134 - Unexpected shutdown;555 - Printhead not reached temperature,1
+1500,555 - Printhead not reached temperature;581 - ITM life expiry: First Warning,1
+1501,139 - Print Trigger Occurred While Printing;555 - Printhead not reached temperature,1
+1502,142 - Recovered successfully;555 - Printhead not reached temperature,1
+1503,238 - Insufficient gutter vacuum: retrying;506 - A trial Pack will expire soon,1
+1504,506 - A trial Pack will expire soon;534 - Insert ink cartridge: No Valid Cartridge Present,1
+1505,15 - Deflection EHT has tripped;506 - A trial Pack will expire soon,1
+1506,20 - Ink Level Below Minimum;550 - Degraded gutter clearing at start-up,1
+1507,550 - Degraded gutter clearing at start-up;590 - Persistent fault,1
+1508,17 - Viscometer fault;573 - Viscometer fault 1,1
+1509,17 - Viscometer fault;574 - Viscometer fault 2,1
+1510,12 - Charge detection error;574 - Viscometer fault 2,1
+1511,12 - Charge detection error;17 - Viscometer fault,1
+1512,140 - Ink detected on the charge electrode;609 - Ensure all consumables are engaged,1
+1513,531 - Change ink cartridge: Expired;549 - Change makeup cartridge: Expired,2
+1514,46 - Makeup Level too High;532 - Change ink cartridge: Empty,1
+1515,10 - Print Stretch Detected;117 - Positive air to the print head has failed,1
+1516,532 - Change ink cartridge: Empty;549 - Change makeup cartridge: Expired,2
+1517,139 - Print Trigger Occurred While Printing;532 - Change ink cartridge: Empty,1
+1518,234 - Gutter Stall;531 - Change ink cartridge: Expired,1
+1519,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1520,"570 - Start-up pressure, via wash valve, not achieved yet: retrying...;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1521,"571 - Start-up pressure, via wash valve, cannot be achieved;575 - Start-up pressure, via feed and bleed valves, cannot be achieved",1
+1522,"571 - Start-up pressure, via wash valve, cannot be achieved;576 - Start-up pressure, via feed and bleed valves, not achieved yet: retrying...",1
+1523,205 - Depletion State;206 - Remove cartridge for depletion,1
+1524,12 - Charge detection error;611 - Please add a new makeup cartridge. Makeup fully expended,1
+1525,142 - Recovered successfully;532 - Change ink cartridge: Empty,2
+1526,15 - Deflection EHT has tripped;1700 - No product trigger in specified distance,1
+1527,142 - Recovered successfully;1700 - No product trigger in specified distance,1
+1528,12 - Charge detection error;554 - Jetting pressure has not been reached,1
+1529,236 - Gutter blocked attempting to clear;45 - Watchdog Reset,1
+1530,237 - Gutter Blocked;45 - Watchdog Reset,1
+1531,211 - Less than 200 hours to next inspection;238 - Insufficient gutter vacuum: retrying,1
+1532,139 - Print Trigger Occurred While Printing;211 - Less than 200 hours to next inspection,1
+1533,1020 - Buffer empty;138 - Print trigger occurred too early,1
+1534,1370 - Print head cover removed;552 - Pressure has not been reached,1
+1535,10 - Print Stretch Detected;552 - Pressure has not been reached,1
+1536,1007 - The label print height is out of range;549 - Change makeup cartridge: Expired,1
+1537,1007 - The label print height is out of range;15 - Deflection EHT has tripped,1
+1538,41 - Ink level high;573 - Viscometer fault 1,1
+1539,20 - Ink Level Below Minimum;542 - Change makeup cartridge: Cartridge Empty,1
+1540,142 - Recovered successfully;26 - Printhead heater temperature high,1
+1541,117 - Positive air to the print head has failed;41 - Ink level high,1
+1542,1008 - Label stroke pitch too small for encoder resolution;52 - Jet modulation has failed,1
+1543,551 - Gutter cannot be cleared;592 - Bleeding damper,1
+1544,20 - Ink Level Below Minimum;551 - Gutter cannot be cleared,1
+1545,20 - Ink Level Below Minimum;554 - Jetting pressure has not been reached,1
+1546,534 - Insert ink cartridge: No Valid Cartridge Present;592 - Bleeding damper,1
+1547,20 - Ink Level Below Minimum;592 - Bleeding damper,1
+1548,1018 - Internal gearbox frequency too high;25 - Add make-up cartridge,1
+1549,1370 - Print head cover removed;531 - Change ink cartridge: Expired,1
+1550,213 - Inspection Required;532 - Change ink cartridge: Empty,1
+1551,25 - Add make-up cartridge;510 - Service module disconnected,1
+1552,1201 - High viscosity;549 - Change makeup cartridge: Expired,1
+1553,16 - Viscosity Out of Range;549 - Change makeup cartridge: Expired,1
+1554,12 - Charge detection error;532 - Change ink cartridge: Empty,1
