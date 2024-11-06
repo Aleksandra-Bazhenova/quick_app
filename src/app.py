@@ -2,15 +2,13 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 
-
-from dash import dash_table, dcc, html, ALL, ctx
+import dash
+from dash import dcc, html
 import dash_bootstrap_components as dbc
-from dash.exceptions import PreventUpdate
-from dash_extensions.enrich import Input, Output, State, Dash, Trigger, FileSystemCache
 
 external_stylesheets = [dbc.themes.SKETCHY]
 
-app = Dash(
+app = dash.Dash(
     __name__,
     external_stylesheets=external_stylesheets,
     prevent_initial_callbacks=True,
@@ -19,7 +17,11 @@ app = Dash(
 
 server = app.server
 
-co_occurrence_df = pd.read_csv('src/azure - co_occurrence_df.csv', index_col=0)
+try:
+    co_occurrence_df = pd.read_csv('src/azure - co_occurrence_df.csv', index_col=0)
+except:
+    co_occurrence_df = pd.read_csv('azure - co_occurrence_df.csv', index_col=0)
+
 co_occurrence_dict = pd.Series(co_occurrence_df['Count'].values, index=co_occurrence_df['Pair']).to_dict()
 alert_pairs = [pair.split(';') for pair in co_occurrence_dict.keys()]
 unique_alerts = sorted(set(alert for sublist in alert_pairs for alert in sublist))
